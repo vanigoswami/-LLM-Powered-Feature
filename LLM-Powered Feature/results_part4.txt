@@ -1,0 +1,57 @@
+[INFO] LLM_API_KEY not set -- running in MOCK MODE (deterministic local responses standing in for the real API).
+============================================================
+TASK: call_llm test prompt
+============================================================
+Test prompt response: 'hello'
+
+============================================================
+TASK: PII guardrail demonstration
+============================================================
+
+Test 1 (contains email) -> Input blocked: PII detected.
+Result: None
+
+Test 2 (clean input) -> Result: '{"prediction_label": "Not likely to default", "confidence_level": "medium", "top_reason": "Strong credit score", "second_reason": "Stable, long employment history", "next_step": "Proceed with standard approval process"}'
+
+============================================================
+TASK: Load best_model.pkl and prepare 3 hand-crafted inputs
+============================================================
+Loaded best_model.pkl successfully.
+
+============================================================
+TASK: End-to-end pipeline on 3 hand-crafted profiles (temperature=0)
+============================================================
+
+--- Profile 1 ---
+Feature input: {'age': 45, 'employment_years': 20, 'education_level': 'Masters', 'city': 'Chicago', 'num_dependents': 1, 'credit_score': 780}
+Predicted class: 0   Predicted probability: 0.0673
+Raw LLM response (temp=0): {"prediction_label": "Not likely to default", "confidence_level": "high", "top_reason": "Strong credit score", "second_reason": "Stable, long employment history", "next_step": "Proceed with standard approval process"}
+Validation status: pass
+
+--- Profile 2 ---
+Feature input: {'age': 24, 'employment_years': 1, 'education_level': 'High School', 'city': 'Houston', 'num_dependents': 3, 'credit_score': 540}
+Predicted class: 1   Predicted probability: 0.5656
+Raw LLM response (temp=0): {"prediction_label": "Likely to default", "confidence_level": "medium", "top_reason": "Low credit score relative to peers", "second_reason": "Short employment history", "next_step": "Recommend manual underwriting review before approval"}
+Validation status: pass
+
+--- Profile 3 ---
+Feature input: {'age': 35, 'employment_years': 8, 'education_level': 'Bachelors', 'city': 'New York', 'num_dependents': 2, 'credit_score': 650}
+Predicted class: 0   Predicted probability: 0.1355
+Raw LLM response (temp=0): {"prediction_label": "Not likely to default", "confidence_level": "high", "top_reason": "Strong credit score", "second_reason": "Stable, long employment history", "next_step": "Proceed with standard approval process"}
+Validation status: pass
+
+============================================================
+Demonstration table (3 rows)
+============================================================
+{'Feature Input': {'age': 45, 'employment_years': 20, 'education_level': 'Masters', 'city': 'Chicago', 'num_dependents': 1, 'credit_score': 780}, 'Predicted Class': 0, 'Probability': 0.0673, 'Explanation JSON': {'prediction_label': 'Not likely to default', 'confidence_level': 'high', 'top_reason': 'Strong credit score', 'second_reason': 'Stable, long employment history', 'next_step': 'Proceed with standard approval process'}, 'Validation Status': 'pass', 'Guardrail Result': 'passed'}
+{'Feature Input': {'age': 24, 'employment_years': 1, 'education_level': 'High School', 'city': 'Houston', 'num_dependents': 3, 'credit_score': 540}, 'Predicted Class': 1, 'Probability': 0.5656, 'Explanation JSON': {'prediction_label': 'Likely to default', 'confidence_level': 'medium', 'top_reason': 'Low credit score relative to peers', 'second_reason': 'Short employment history', 'next_step': 'Recommend manual underwriting review before approval'}, 'Validation Status': 'pass', 'Guardrail Result': 'passed'}
+{'Feature Input': {'age': 35, 'employment_years': 8, 'education_level': 'Bachelors', 'city': 'New York', 'num_dependents': 2, 'credit_score': 650}, 'Predicted Class': 0, 'Probability': 0.1355, 'Explanation JSON': {'prediction_label': 'Not likely to default', 'confidence_level': 'high', 'top_reason': 'Strong credit score', 'second_reason': 'Stable, long employment history', 'next_step': 'Proceed with standard approval process'}, 'Validation Status': 'pass', 'Guardrail Result': 'passed'}
+
+============================================================
+Temperature A/B comparison
+============================================================
+{'Input': 'Profile 1', 'Output@temp=0': {'prediction_label': 'Not likely to default', 'confidence_level': 'high', 'top_reason': 'Strong credit score', 'second_reason': 'Stable, long employment history', 'next_step': 'Proceed with standard approval process'}, 'Output@temp=0.7': {'prediction_label': 'Not likely to default', 'confidence_level': 'high', 'top_reason': 'Strong credit score', 'second_reason': 'Stable, long employment history', 'next_step': 'Proceed with standard approval process'}}
+{'Input': 'Profile 2', 'Output@temp=0': {'prediction_label': 'Likely to default', 'confidence_level': 'medium', 'top_reason': 'Low credit score relative to peers', 'second_reason': 'Short employment history', 'next_step': 'Recommend manual underwriting review before approval'}, 'Output@temp=0.7': {'prediction_label': 'Likely to default', 'confidence_level': 'high', 'top_reason': 'Below-average credit score relative to peers', 'second_reason': 'Short employment history', 'next_step': 'Recommend manual underwriting review before approval'}}
+{'Input': 'Profile 3', 'Output@temp=0': {'prediction_label': 'Not likely to default', 'confidence_level': 'high', 'top_reason': 'Strong credit score', 'second_reason': 'Stable, long employment history', 'next_step': 'Proceed with standard approval process'}, 'Output@temp=0.7': {'prediction_label': 'Not likely to default', 'confidence_level': 'low', 'top_reason': 'Strong credit score', 'second_reason': 'Stable, long employment history', 'next_step': 'Proceed with standard approval process'}}
+
+All done. Results saved to results_part4.json.

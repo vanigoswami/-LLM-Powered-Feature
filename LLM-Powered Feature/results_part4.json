@@ -1,0 +1,124 @@
+{
+  "mock_mode": true,
+  "test_prompt_response": "hello",
+  "pii_test_blocked": null,
+  "pii_test_clean": "{\"prediction_label\": \"Not likely to default\", \"confidence_level\": \"medium\", \"top_reason\": \"Strong credit score\", \"second_reason\": \"Stable, long employment history\", \"next_step\": \"Proceed with standard approval process\"}",
+  "demo_rows": [
+    {
+      "Feature Input": {
+        "age": 45,
+        "employment_years": 20,
+        "education_level": "Masters",
+        "city": "Chicago",
+        "num_dependents": 1,
+        "credit_score": 780
+      },
+      "Predicted Class": 0,
+      "Probability": 0.0673,
+      "Explanation JSON": {
+        "prediction_label": "Not likely to default",
+        "confidence_level": "high",
+        "top_reason": "Strong credit score",
+        "second_reason": "Stable, long employment history",
+        "next_step": "Proceed with standard approval process"
+      },
+      "Validation Status": "pass",
+      "Guardrail Result": "passed"
+    },
+    {
+      "Feature Input": {
+        "age": 24,
+        "employment_years": 1,
+        "education_level": "High School",
+        "city": "Houston",
+        "num_dependents": 3,
+        "credit_score": 540
+      },
+      "Predicted Class": 1,
+      "Probability": 0.5656,
+      "Explanation JSON": {
+        "prediction_label": "Likely to default",
+        "confidence_level": "medium",
+        "top_reason": "Low credit score relative to peers",
+        "second_reason": "Short employment history",
+        "next_step": "Recommend manual underwriting review before approval"
+      },
+      "Validation Status": "pass",
+      "Guardrail Result": "passed"
+    },
+    {
+      "Feature Input": {
+        "age": 35,
+        "employment_years": 8,
+        "education_level": "Bachelors",
+        "city": "New York",
+        "num_dependents": 2,
+        "credit_score": 650
+      },
+      "Predicted Class": 0,
+      "Probability": 0.1355,
+      "Explanation JSON": {
+        "prediction_label": "Not likely to default",
+        "confidence_level": "high",
+        "top_reason": "Strong credit score",
+        "second_reason": "Stable, long employment history",
+        "next_step": "Proceed with standard approval process"
+      },
+      "Validation Status": "pass",
+      "Guardrail Result": "passed"
+    }
+  ],
+  "temp_ab_rows": [
+    {
+      "Input": "Profile 1",
+      "Output@temp=0": {
+        "prediction_label": "Not likely to default",
+        "confidence_level": "high",
+        "top_reason": "Strong credit score",
+        "second_reason": "Stable, long employment history",
+        "next_step": "Proceed with standard approval process"
+      },
+      "Output@temp=0.7": {
+        "prediction_label": "Not likely to default",
+        "confidence_level": "high",
+        "top_reason": "Strong credit score",
+        "second_reason": "Stable, long employment history",
+        "next_step": "Proceed with standard approval process"
+      }
+    },
+    {
+      "Input": "Profile 2",
+      "Output@temp=0": {
+        "prediction_label": "Likely to default",
+        "confidence_level": "medium",
+        "top_reason": "Low credit score relative to peers",
+        "second_reason": "Short employment history",
+        "next_step": "Recommend manual underwriting review before approval"
+      },
+      "Output@temp=0.7": {
+        "prediction_label": "Likely to default",
+        "confidence_level": "high",
+        "top_reason": "Below-average credit score relative to peers",
+        "second_reason": "Short employment history",
+        "next_step": "Recommend manual underwriting review before approval"
+      }
+    },
+    {
+      "Input": "Profile 3",
+      "Output@temp=0": {
+        "prediction_label": "Not likely to default",
+        "confidence_level": "high",
+        "top_reason": "Strong credit score",
+        "second_reason": "Stable, long employment history",
+        "next_step": "Proceed with standard approval process"
+      },
+      "Output@temp=0.7": {
+        "prediction_label": "Not likely to default",
+        "confidence_level": "low",
+        "top_reason": "Strong credit score",
+        "second_reason": "Stable, long employment history",
+        "next_step": "Proceed with standard approval process"
+      }
+    }
+  ]
+}

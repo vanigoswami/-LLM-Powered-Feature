@@ -1,0 +1,80 @@
+Loaded cleaned_data.csv. Train=1600, Test=400, Features=['age', 'employment_years', 'education_level', 'num_dependents', 'credit_score', 'city_Houston', 'city_Los Angeles', 'city_New York', 'city_Phoenix']
+
+============================================================
+TASK 1: Decision Tree — unconstrained (max_depth=None)
+============================================================
+Train accuracy: 1.0000   Test accuracy: 0.7575
+Train-test gap: 0.2425
+
+============================================================
+TASK 2: Decision Tree — controlled (max_depth=5, min_samples_split=20)
+============================================================
+Train accuracy: 0.8725   Test accuracy: 0.8325
+Train-test gap: 0.0400
+
+============================================================
+TASK 3: Gini vs Entropy (both max_depth=5)
+============================================================
+Gini test accuracy:    0.8375
+Entropy test accuracy: 0.8375
+
+============================================================
+TASK 4: Random Forest (n_estimators=100, max_depth=10)
+============================================================
+Train accuracy: 0.9387   Test accuracy: 0.8375   Test AUC: 0.7079
+
+Top 5 features by importance:
+         feature  importance
+    credit_score    0.329218
+             age    0.199947
+employment_years    0.182411
+  num_dependents    0.116974
+ education_level    0.069909
+
+============================================================
+TASK 4a: Gradient Boosting (n_estimators=100, lr=0.1, max_depth=3)
+============================================================
+Train accuracy: 0.8919   Test accuracy: 0.8475   Test AUC: 0.7497
+
+============================================================
+TASK 4b: Feature ablation — remove 5 lowest-importance features
+============================================================
+5 lowest-importance features: ['education_level', 'city_Los Angeles', 'city_New York', 'city_Phoenix', 'city_Houston']
+Full model AUC (all 9 features):     0.7079
+Reduced model AUC (4 features):            0.7244
+Difference (full - reduced): -0.0164
+
+============================================================
+TASK 5: 5-fold cross-validated AUC comparison
+============================================================
+Logistic Regression             mean AUC = 0.7632   std = 0.0277
+Decision Tree (max_depth=5)     mean AUC = 0.7256   std = 0.0298
+Random Forest                   mean AUC = 0.7112   std = 0.0213
+Gradient Boosting               mean AUC = 0.7276   std = 0.0318
+
+============================================================
+TASK 6: GridSearchCV — Random Forest tuning
+============================================================
+Total parameter combinations: 18  x  5 folds = 90 model fits
+
+Best params: {'randomforestclassifier__max_depth': 5, 'randomforestclassifier__min_samples_leaf': 1, 'randomforestclassifier__n_estimators': 50}
+Best CV AUC: 0.7433
+Best pipeline test AUC (held-out test set): 0.7514
+
+============================================================
+TASK 7: Manual learning curve (best pipeline, 20%-100% of training data)
+============================================================
+ Training fraction  Training AUC  Test AUC
+               0.2      0.976184  0.682175
+               0.4      0.931812  0.725673
+               0.6      0.902135  0.738604
+               0.8      0.877005  0.749137
+               1.0      0.853508  0.751423
+
+============================================================
+TASK 8: Serialize best model to best_model.pkl
+============================================================
+Saved best_model.pkl
+Reload-and-predict check on 2 hand-picked test rows: predictions = [0, 0]
+
+All done. Results saved to results_part3.json, model saved to best_model.pkl.

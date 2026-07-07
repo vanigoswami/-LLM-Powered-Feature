@@ -1,0 +1,130 @@
+{
+  "reg_target": "annual_income",
+  "clf_target": "loan_default",
+  "mse_lr": 81810809.7500588,
+  "r2_lr": 0.8885866191975269,
+  "coef_table": [
+    {
+      "feature": "employment_years",
+      "coefficient": 20881.21505535783
+    },
+    {
+      "feature": "education_level",
+      "coefficient": 11814.555694294892
+    },
+    {
+      "feature": "credit_score",
+      "coefficient": 3541.343670391176
+    },
+    {
+      "feature": "num_dependents",
+      "coefficient": -1495.5678090057145
+    },
+    {
+      "feature": "age",
+      "coefficient": 1371.5081868576838
+    },
+    {
+      "feature": "city_Phoenix",
+      "coefficient": -275.11242368658856
+    },
+    {
+      "feature": "city_New York",
+      "coefficient": 159.9543178152777
+    },
+    {
+      "feature": "city_Houston",
+      "coefficient": 116.41569593682239
+    },
+    {
+      "feature": "city_Los Angeles",
+      "coefficient": 11.419664763099382
+    }
+  ],
+  "top3_features": [
+    {
+      "feature": "employment_years",
+      "coefficient": 20881.21505535783
+    },
+    {
+      "feature": "education_level",
+      "coefficient": 11814.555694294892
+    },
+    {
+      "feature": "credit_score",
+      "coefficient": 3541.343670391176
+    }
+  ],
+  "mse_ridge": 81890087.52285995,
+  "r2_ridge": 0.8884786554123345,
+  "minority_pct_before": 0.140625,
+  "imbalance_strategy": "class_weight='balanced'",
+  "class_weights_applied": {
+    "0": 0.5818181818181818,
+    "1": 3.5555555555555554
+  },
+  "confusion_matrix": [
+    [
+      237,
+      96
+    ],
+    [
+      23,
+      44
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n           0     0.9115    0.7117    0.7993       333\n           1     0.3143    0.6567    0.4251        67\n\n    accuracy                         0.7025       400\n   macro avg     0.6129    0.6842    0.6122       400\nweighted avg     0.8115    0.7025    0.7366       400\n",
+  "auc_baseline": 0.7609699251490296,
+  "threshold_table": [
+    {
+      "Threshold": 0.3,
+      "Precision": 0.22868217054263565,
+      "Recall": 0.8805970149253731,
+      "F1": 0.3630769230769231
+    },
+    {
+      "Threshold": 0.4,
+      "Precision": 0.27411167512690354,
+      "Recall": 0.8059701492537313,
+      "F1": 0.4090909090909091
+    },
+    {
+      "Threshold": 0.5,
+      "Precision": 0.3142857142857143,
+      "Recall": 0.6567164179104478,
+      "F1": 0.4251207729468599
+    },
+    {
+      "Threshold": 0.6,
+      "Precision": 0.4,
+      "Recall": 0.5074626865671642,
+      "F1": 0.4473684210526316
+    },
+    {
+      "Threshold": 0.7,
+      "Precision": 0.4791666666666667,
+      "Recall": 0.34328358208955223,
+      "F1": 0.4
+    }
+  ],
+  "best_threshold": 0.6,
+  "best_threshold_f1": 0.4473684210526316,
+  "reg_comparison": [
+    {
+      "Model": "C=1.0 (baseline)",
+      "Precision": 0.3142857142857143,
+      "Recall": 0.6567164179104478,
+      "AUC": 0.7609699251490296
+    },
+    {
+      "Model": "C=0.01 (strong L2)",
+      "Precision": 0.32116788321167883,
+      "Recall": 0.6567164179104478,
+      "AUC": 0.7628075837031061
+    }
+  ],
+  "bootstrap_mean_diff": -0.0019112376125022415,
+  "bootstrap_ci_low": -0.009923885879852018,
+  "bootstrap_ci_high": 0.005616925935917129,
+  "bootstrap_excludes_zero": false
+}

@@ -1,0 +1,97 @@
+Loaded cleaned_data.csv: 2000 rows, 8 columns
+
+Encoded feature matrix: 9 columns -> ['age', 'employment_years', 'education_level', 'num_dependents', 'credit_score', 'city_Houston', 'city_Los Angeles', 'city_New York', 'city_Phoenix']
+
+Train size: 1600   Test size: 400
+
+============================================================
+REGRESSION: Linear Regression
+============================================================
+MSE: 81,810,809.75
+R^2: 0.8886
+
+Coefficients (sorted by |value|):
+         feature  coefficient
+employment_years 20881.215055
+ education_level 11814.555694
+    credit_score  3541.343670
+  num_dependents -1495.567809
+             age  1371.508187
+    city_Phoenix  -275.112424
+   city_New York   159.954318
+    city_Houston   116.415696
+city_Los Angeles    11.419665
+
+------------------------------------------------------------
+REGRESSION: Ridge (alpha=1.0)
+------------------------------------------------------------
+MSE: 81,890,087.52
+R^2: 0.8885
+
+Model comparison:
+                  Model          MSE       R2
+Linear Regression (OLS) 8.181081e+07 0.888587
+      Ridge (alpha=1.0) 8.189009e+07 0.888479
+
+============================================================
+CLASSIFICATION: Logistic Regression
+============================================================
+Class balance BEFORE handling imbalance (train set):
+loan_default
+0    1375
+1     225
+loan_default
+0    0.8594
+1    0.1406
+
+Minority class share: 14.06% -> imbalance handling required
+
+Class weights applied during training: {np.int64(0): np.float64(0.5818181818181818), np.int64(1): np.float64(3.5555555555555554)}
+
+Confusion Matrix (rows=actual, cols=predicted):
+[[237  96]
+ [ 23  44]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9115    0.7117    0.7993       333
+           1     0.3143    0.6567    0.4251        67
+
+    accuracy                         0.7025       400
+   macro avg     0.6129    0.6842    0.6122       400
+weighted avg     0.8115    0.7025    0.7366       400
+
+
+AUC: 0.7610
+
+Saved roc_curve.png
+
+============================================================
+THRESHOLD SENSITIVITY (0.30 -> 0.70)
+============================================================
+ Threshold  Precision   Recall       F1
+       0.3   0.228682 0.880597 0.363077
+       0.4   0.274112 0.805970 0.409091
+       0.5   0.314286 0.656716 0.425121
+       0.6   0.400000 0.507463 0.447368
+       0.7   0.479167 0.343284 0.400000
+
+Best F1 at threshold = 0.60 (F1 = 0.4474)
+Saved threshold_sensitivity.png
+
+============================================================
+REGULARIZATION: C=0.01 (strong) vs C=1.0 (baseline)
+============================================================
+             Model  Precision   Recall      AUC
+  C=1.0 (baseline)   0.314286 0.656716 0.760970
+C=0.01 (strong L2)   0.321168 0.656716 0.762808
+
+============================================================
+BOOTSTRAP CI: AUC(C=1.0) - AUC(C=0.01)
+============================================================
+Mean AUC difference (C=1.0 minus C=0.01): -0.0019
+95% CI: [-0.0099, 0.0056]
+CI excludes zero: False
+
+All done. Results saved to results.json, plots saved as .png files.

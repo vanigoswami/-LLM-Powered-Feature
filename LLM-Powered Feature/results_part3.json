@@ -1,0 +1,135 @@
+{
+  "dt_unconstrained": {
+    "train_acc": 1.0,
+    "test_acc": 0.7575
+  },
+  "dt_controlled": {
+    "train_acc": 0.8725,
+    "test_acc": 0.8325
+  },
+  "gini_test_acc": 0.8375,
+  "entropy_test_acc": 0.8375,
+  "rf": {
+    "train_acc": 0.93875,
+    "test_acc": 0.8375,
+    "auc": 0.7079467527228721
+  },
+  "rf_importances": [
+    {
+      "feature": "credit_score",
+      "importance": 0.3292179649391788
+    },
+    {
+      "feature": "age",
+      "importance": 0.1999470727772453
+    },
+    {
+      "feature": "employment_years",
+      "importance": 0.182410721571703
+    },
+    {
+      "feature": "num_dependents",
+      "importance": 0.11697432991238561
+    },
+    {
+      "feature": "education_level",
+      "importance": 0.06990862016543409
+    },
+    {
+      "feature": "city_Los Angeles",
+      "importance": 0.026985354503641975
+    },
+    {
+      "feature": "city_New York",
+      "importance": 0.026273854460460183
+    },
+    {
+      "feature": "city_Phoenix",
+      "importance": 0.024450111163011882
+    },
+    {
+      "feature": "city_Houston",
+      "importance": 0.023831970506939065
+    }
+  ],
+  "gb": {
+    "train_acc": 0.891875,
+    "test_acc": 0.8475,
+    "auc": 0.7496974586526826
+  },
+  "ablation": {
+    "removed_features": [
+      "education_level",
+      "city_Los Angeles",
+      "city_New York",
+      "city_Phoenix",
+      "city_Houston"
+    ],
+    "auc_full": 0.7079467527228721,
+    "auc_reduced": 0.7243960378288736
+  },
+  "cv_comparison": [
+    {
+      "Model": "Logistic Regression",
+      "Mean AUC": 0.7632161616161617,
+      "Std AUC": 0.027717591067888143
+    },
+    {
+      "Model": "Decision Tree (max_depth=5)",
+      "Mean AUC": 0.7256242424242425,
+      "Std AUC": 0.02982321164224093
+    },
+    {
+      "Model": "Random Forest",
+      "Mean AUC": 0.7111838383838384,
+      "Std AUC": 0.021332849703731355
+    },
+    {
+      "Model": "Gradient Boosting",
+      "Mean AUC": 0.7275636363636364,
+      "Std AUC": 0.03181954423890893
+    }
+  ],
+  "grid_search": {
+    "n_configs": 18,
+    "total_fits": 90,
+    "best_params": {
+      "randomforestclassifier__max_depth": 5,
+      "randomforestclassifier__min_samples_leaf": 1,
+      "randomforestclassifier__n_estimators": 50
+    },
+    "best_cv_auc": 0.7432565656565656,
+    "best_test_auc": 0.7514230648559007
+  },
+  "learning_curve": [
+    {
+      "Training fraction": 0.2,
+      "Training AUC": 0.9761839583903641,
+      "Test AUC": 0.6821747120254583
+    },
+    {
+      "Training fraction": 0.4,
+      "Training AUC": 0.93181222134802,
+      "Test AUC": 0.7256734346286585
+    },
+    {
+      "Training fraction": 0.6,
+      "Training AUC": 0.9021352811126969,
+      "Test AUC": 0.7386042759177087
+    },
+    {
+      "Training fraction": 0.8,
+      "Training AUC": 0.8770050505050505,
+      "Test AUC": 0.749137196898391
+    },
+    {
+      "Training fraction": 1.0,
+      "Training AUC": 0.8535078787878787,
+      "Test AUC": 0.7514230648559007
+    }
+  ],
+  "reload_predict_sample": [
+    0,
+    0
+  ]
+}

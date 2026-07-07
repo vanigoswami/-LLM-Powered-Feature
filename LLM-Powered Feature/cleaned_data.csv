@@ -1,0 +1,2001 @@
+age,employment_years,education_level,city,num_dependents,credit_score,annual_income,loan_default
+59,36,Masters,New York,2,592,113579.85,0
+49,24,High School,Phoenix,1,523,75948.56,1
+35,12,Masters,New York,0,751,82453.73,0
+63,42,Masters,Chicago,1,636,123564.81,0
+28,0,High School,Phoenix,5,850,53414.17,0
+41,15,Bachelors,Houston,3,585,75587.38,0
+59,33,PhD,Los Angeles,1,598,126228.91,0
+39,12,Bachelors,Chicago,1,578,67413.97,0
+43,22,Masters,Chicago,2,636,82901.83,0
+31,6,Bachelors,Los Angeles,0,776,49418.7,0
+31,4,Bachelors,Los Angeles,0,731,63466.81,0
+44,23,High School,Houston,1,530,63443.18,0
+56,32,High School,Chicago,0,746,88037.64,0
+60,38,Masters,Chicago,0,705,124008.56,0
+44,17,Bachelors,New York,1,689,75328.61,0
+23,0,Bachelors,Phoenix,1,595,37311.76,0
+42,17,Bachelors,Phoenix,1,601,52150.73,0
+22,0,Bachelors,New York,1,661,54982.88,0
+44,20,Masters,Phoenix,4,606,84444.96,1
+64,39,PhD,Los Angeles,2,755,156483.76,0
+50,29,Bachelors,Phoenix,2,602,75020.23,0
+58,37,Masters,Phoenix,0,494,100464.93,0
+22,1,Masters,New York,0,546,51161.28,1
+41,13,Bachelors,Houston,1,551,70037.75,0
+53,32,PhD,Phoenix,0,629,113783.0,0
+32,9,High School,Phoenix,0,667,33553.7,0
+42,18,High School,Houston,2,654,61507.57,0
+64,38,Masters,New York,0,687,123064.14,0
+45,23,Bachelors,Houston,0,630,88496.72,0
+47,24,Masters,New York,2,633,93465.45,0
+62,39,Masters,Los Angeles,0,790,135266.24,0
+48,20,High School,New York,2,746,77735.2,0
+36,10,Masters,Los Angeles,0,683,64362.08,0
+35,9,Bachelors,Los Angeles,1,723,71583.08,0
+64,42,Bachelors,New York,3,496,93502.67,0
+23,1,Bachelors,Chicago,2,584,45244.03,0
+57,31,Masters,New York,1,615,121973.42,0
+27,6,High School,Phoenix,0,585,31483.39,0
+41,18,Bachelors,Phoenix,2,526,73841.0,0
+29,4,Bachelors,Chicago,0,684,47176.16,0
+59,37,Bachelors,Los Angeles,2,761,116908.43,0
+38,10,Bachelors,Chicago,2,649,38233.51,0
+24,0,High School,Phoenix,1,702,30339.41,0
+45,23,High School,Chicago,0,647,72838.52,0
+34,8,Bachelors,New York,2,615,65702.14,1
+29,5,Masters,Chicago,1,724,75087.3,0
+46,21,High School,Los Angeles,2,536,57388.88,0
+22,0,High School,New York,0,501,24452.58,0
+40,18,PhD,Houston,3,535,79184.95,0
+48,27,High School,Phoenix,1,718,92916.67,0
+27,3,PhD,Phoenix,2,657,77500.43,0
+64,39,Bachelors,Chicago,1,680,96451.89,0
+28,6,Masters,New York,2,784,71973.88,0
+55,27,High School,Houston,1,557,74581.06,1
+34,9,High School,New York,1,746,39874.5,0
+37,10,Bachelors,Phoenix,1,618,59391.79,0
+56,32,Masters,New York,2,606,101569.68,0
+60,36,Bachelors,Houston,2,656,92998.62,0
+24,0,High School,Chicago,0,669,23239.88,0
+22,0,Masters,Los Angeles,1,633,55664.31,1
+26,0,Masters,New York,0,699,66314.99,0
+62,35,Bachelors,Los Angeles,1,657,105708.37,0
+24,0,Masters,Phoenix,0,634,63802.82,1
+49,23,Masters,Chicago,0,617,101918.33,1
+38,16,Bachelors,Chicago,0,669,63241.42,0
+46,22,High School,New York,0,541,69009.93,0
+64,41,Bachelors,Chicago,1,564,118178.69,1
+54,31,High School,New York,1,621,97116.21,0
+30,5,Bachelors,New York,1,694,56255.89,0
+56,31,Bachelors,Los Angeles,2,821,92127.93,0
+34,7,High School,Chicago,2,637,32693.27,1
+51,28,High School,New York,3,508,52446.99,0
+35,8,High School,Los Angeles,3,587,40874.3,0
+28,0,Masters,Houston,0,703,73005.71,0
+34,7,Masters,Los Angeles,1,572,42759.67,1
+43,18,High School,Los Angeles,0,546,71506.07,0
+60,36,PhD,New York,1,702,138155.14,0
+41,14,Bachelors,Phoenix,0,687,59990.77,0
+36,15,High School,Phoenix,1,532,51390.25,1
+38,14,High School,Phoenix,1,578,39721.05,1
+44,21,Bachelors,Los Angeles,1,750,87563.78,0
+46,23,Masters,New York,0,718,100690.25,0
+45,18,Bachelors,Chicago,1,554,73324.09,0
+61,37,High School,Los Angeles,1,491,78769.55,0
+49,24,High School,Los Angeles,1,671,63880.11,0
+35,10,Bachelors,New York,1,626,63356.39,0
+21,0,High School,Houston,1,665,22875.46,0
+45,22,High School,Los Angeles,1,701,69781.16,0
+27,5,High School,Houston,1,573,36796.85,1
+29,3,Masters,Houston,0,615,57998.8,0
+44,19,Masters,Phoenix,0,578,97715.91,0
+21,0,Bachelors,New York,2,581,36170.05,1
+64,36,Masters,Houston,0,695,120659.82,0
+28,3,High School,New York,0,662,28194.65,0
+44,20,Bachelors,Phoenix,0,525,83359.84,0
+31,5,High School,New York,0,708,32955.13,0
+37,14,Bachelors,Los Angeles,2,622,75970.41,0
+28,3,PhD,Houston,0,712,77348.01,0
+55,28,Bachelors,New York,0,569,114298.85,0
+55,31,Bachelors,Chicago,1,576,88695.86,0
+53,30,Bachelors,New York,4,670,104476.75,0
+25,0,High School,Houston,1,562,27872.18,0
+62,34,Masters,Phoenix,2,628,109296.21,0
+59,37,Bachelors,Phoenix,1,553,109233.12,0
+61,37,Bachelors,Houston,4,619,107834.59,1
+48,22,Bachelors,Los Angeles,4,647,74692.55,0
+27,5,Bachelors,Los Angeles,3,651,52294.53,1
+29,7,High School,Phoenix,0,621,49910.97,0
+28,7,Bachelors,Phoenix,1,677,60082.19,0
+32,7,High School,Houston,0,662,37307.33,0
+54,30,Bachelors,Los Angeles,0,643,92440.48,0
+53,31,Masters,Phoenix,1,600,107813.31,0
+43,22,Masters,Los Angeles,0,735,109012.16,0
+44,18,Bachelors,Phoenix,5,681,63855.9,0
+57,34,Bachelors,New York,2,567,102009.18,0
+55,28,High School,Chicago,0,702,66417.79,0
+64,37,Masters,New York,1,720,129551.5,0
+60,36,High School,Phoenix,1,643,98085.94,0
+42,20,Bachelors,Chicago,1,649,96008.59,0
+47,20,High School,Chicago,0,485,65727.64,1
+55,30,High School,Phoenix,1,583,74509.19,0
+21,0,Bachelors,Phoenix,3,717,28268.79,0
+55,28,High School,Los Angeles,0,587,80507.77,0
+57,30,Bachelors,Phoenix,1,637,92335.0,0
+34,6,High School,Houston,1,581,37846.92,1
+23,2,High School,Phoenix,0,668,25838.33,1
+21,0,Bachelors,Houston,2,681,40281.23,0
+25,0,High School,Phoenix,0,684,18000.0,0
+46,24,High School,Los Angeles,1,559,56944.15,0
+34,6,Bachelors,Houston,1,659,42274.57,0
+59,35,High School,New York,2,776,101495.11,0
+47,23,Masters,Houston,2,710,89954.62,0
+29,5,High School,Los Angeles,1,657,48481.37,0
+35,9,High School,Houston,0,496,30683.01,1
+35,8,Bachelors,Phoenix,1,630,74263.44,0
+46,20,High School,Phoenix,2,782,49340.49,1
+62,41,High School,Los Angeles,3,755,106218.72,0
+33,9,Bachelors,Chicago,2,687,58627.38,0
+52,24,High School,Phoenix,0,592,57977.03,0
+59,34,Masters,New York,1,654,111201.62,0
+52,30,High School,Los Angeles,0,712,82128.47,0
+24,0,Masters,Houston,0,725,61248.26,0
+50,27,Masters,Houston,2,675,94772.25,0
+57,32,Bachelors,New York,2,718,104747.88,0
+43,16,Masters,Phoenix,0,645,85677.51,1
+59,33,Bachelors,Los Angeles,3,642,105492.66,0
+35,9,PhD,New York,0,613,74958.74,1
+63,38,High School,Phoenix,2,684,91676.0,0
+49,23,Bachelors,Los Angeles,0,730,100579.07,0
+56,32,Bachelors,Houston,2,707,92325.65,0
+33,12,Bachelors,Los Angeles,2,553,45787.71,0
+52,30,Bachelors,Chicago,3,557,84001.4,0
+27,6,Bachelors,Los Angeles,0,738,41336.45,0
+42,15,High School,Chicago,0,664,70616.04,1
+48,26,High School,Los Angeles,3,667,69335.13,1
+22,0,Bachelors,Chicago,2,665,38742.05,0
+62,40,Bachelors,Houston,2,790,124882.74,0
+26,5,PhD,Phoenix,2,614,66629.99,0
+48,23,Masters,Chicago,1,739,97816.63,0
+48,26,PhD,Chicago,3,669,105192.51,0
+64,36,Bachelors,Houston,2,522,84484.72,0
+64,36,High School,Chicago,2,584,88216.82,1
+40,12,High School,New York,0,601,56871.55,0
+50,29,Masters,Houston,1,737,111193.65,0
+31,9,Bachelors,New York,1,748,70198.12,0
+48,25,High School,Houston,0,678,64257.87,0
+45,20,Bachelors,Chicago,0,608,70533.65,0
+59,35,PhD,New York,0,577,116431.33,0
+53,31,Bachelors,Chicago,0,741,105739.02,0
+21,0,Bachelors,Houston,4,547,31221.52,1
+47,24,Bachelors,Chicago,1,642,81484.47,0
+33,9,High School,New York,1,839,56580.88,0
+61,37,Bachelors,New York,0,608,103663.15,0
+23,0,Bachelors,Chicago,1,548,47437.05,1
+59,37,High School,Los Angeles,2,509,88680.92,0
+26,5,Masters,Houston,1,842,68184.67,0
+28,6,Bachelors,Houston,1,678,39755.57,0
+47,24,Masters,Chicago,2,580,99969.47,0
+29,5,Masters,Los Angeles,4,635,62146.42,0
+57,35,High School,New York,1,597,90659.62,0
+53,32,Bachelors,Phoenix,0,501,97906.67,0
+62,35,Bachelors,Phoenix,2,713,101358.23,0
+64,42,Masters,Chicago,0,653,130357.63,0
+44,19,High School,Los Angeles,1,706,59113.04,1
+35,8,Bachelors,Los Angeles,0,651,68690.58,0
+52,31,Bachelors,Houston,0,660,96723.92,0
+52,29,High School,New York,1,471,66266.84,0
+44,20,High School,Los Angeles,0,723,78788.88,0
+61,39,Bachelors,Phoenix,1,563,119409.74,0
+32,11,Bachelors,New York,5,583,56247.37,0
+59,32,High School,New York,2,608,80351.19,1
+22,0,Bachelors,Chicago,0,485,32984.05,1
+23,2,Bachelors,Los Angeles,2,603,41924.23,0
+57,31,Bachelors,Chicago,2,598,86447.6,0
+37,9,High School,Los Angeles,2,620,44950.3,0
+22,0,Masters,Houston,2,514,63032.53,1
+22,0,High School,Chicago,1,724,34823.58,1
+48,25,Bachelors,Chicago,2,682,76950.87,0
+43,19,High School,Phoenix,0,581,63535.91,0
+57,30,High School,Chicago,2,603,79470.85,0
+52,24,Bachelors,Los Angeles,0,717,92896.65,1
+53,30,High School,Phoenix,0,629,73783.88,0
+21,0,Masters,Chicago,1,551,50870.22,0
+39,18,High School,Chicago,1,643,66867.89,0
+22,0,Bachelors,Houston,2,563,27490.02,1
+64,39,High School,Chicago,2,593,89477.89,0
+46,21,High School,New York,2,646,60649.32,0
+52,31,High School,Phoenix,1,734,94945.3,0
+26,0,Bachelors,New York,1,812,58607.49,0
+52,31,Bachelors,Phoenix,1,759,84723.81,0
+24,2,Bachelors,Houston,0,644,55337.58,0
+31,3,Bachelors,Chicago,1,831,65050.6,0
+37,14,Bachelors,Chicago,0,695,80032.19,0
+58,31,High School,Chicago,3,572,72313.35,0
+44,19,Bachelors,Phoenix,2,658,73051.78,0
+25,3,PhD,Chicago,2,597,54773.21,0
+54,31,Bachelors,New York,3,550,72345.42,1
+26,4,Bachelors,Chicago,1,556,41986.37,0
+42,16,High School,Houston,0,638,57008.22,0
+31,6,Masters,New York,0,710,70790.93,0
+36,9,Masters,Chicago,0,735,82990.26,0
+53,32,Bachelors,Chicago,0,550,124150.22,0
+29,8,PhD,Los Angeles,3,626,74276.08,0
+26,3,High School,Phoenix,3,689,21859.88,0
+36,9,High School,New York,1,662,48395.21,0
+49,21,Masters,Los Angeles,3,706,94440.18,1
+23,0,Masters,Houston,2,615,47029.31,1
+40,14,High School,Phoenix,1,752,64277.67,0
+56,33,High School,New York,0,650,80092.59,0
+39,15,High School,Chicago,0,711,56282.9,1
+46,24,High School,New York,0,620,69361.74,1
+23,0,Masters,Chicago,1,655,46470.59,0
+39,17,Bachelors,Phoenix,0,522,53092.66,0
+40,12,High School,Chicago,2,583,46490.55,0
+52,25,Bachelors,Houston,1,633,98438.44,0
+27,2,High School,Chicago,0,658,40568.12,0
+61,35,High School,Houston,1,850,107050.2,0
+53,29,Bachelors,Phoenix,1,619,85569.45,1
+60,32,PhD,Phoenix,2,540,120726.63,0
+59,34,Masters,New York,0,786,109822.56,0
+38,17,High School,Houston,3,736,59960.24,0
+60,36,Masters,Houston,2,557,127179.06,0
+21,0,Masters,Los Angeles,3,687,66658.53,0
+31,10,Masters,Los Angeles,1,717,93754.04,0
+48,20,Bachelors,Los Angeles,1,663,87222.6,0
+45,24,Bachelors,Chicago,0,676,91521.74,0
+43,20,High School,Los Angeles,1,599,68632.51,1
+51,25,High School,Houston,2,690,78325.17,0
+50,29,High School,Chicago,2,611,68974.71,0
+62,35,High School,Phoenix,2,438,66482.03,0
+55,31,Bachelors,New York,2,666,104984.83,0
+27,2,Bachelors,Los Angeles,1,516,58880.13,0
+36,15,Bachelors,Phoenix,0,731,81555.74,0
+46,22,High School,Houston,3,560,43401.49,0
+22,0,PhD,New York,0,454,55486.28,1
+21,0,Masters,Phoenix,1,508,47349.77,1
+32,7,Masters,New York,2,647,49375.61,0
+25,1,PhD,Los Angeles,1,665,56807.93,0
+57,34,Bachelors,Houston,0,537,99346.32,0
+52,24,PhD,New York,0,564,110114.71,0
+29,4,High School,Phoenix,2,649,23885.87,0
+61,33,Bachelors,Los Angeles,2,728,90313.54,0
+55,29,High School,Los Angeles,0,553,87059.75,0
+39,11,High School,Phoenix,1,680,44357.24,0
+36,14,High School,Phoenix,2,511,43085.29,0
+23,0,Bachelors,New York,2,675,36679.97,0
+40,14,Masters,Chicago,1,710,75459.42,0
+44,20,Bachelors,Los Angeles,0,692,92405.05,0
+53,28,High School,New York,1,730,72481.83,0
+44,22,Masters,Phoenix,0,724,100177.15,0
+31,8,Bachelors,New York,2,798,60998.34,0
+28,2,Bachelors,Phoenix,1,659,28226.44,0
+56,30,Bachelors,Houston,1,798,103888.52,0
+58,36,High School,Phoenix,2,574,73464.28,0
+60,33,High School,Phoenix,1,634,91279.14,0
+40,16,Masters,Phoenix,1,641,72562.25,0
+55,33,High School,Chicago,1,567,87578.17,0
+45,19,Bachelors,Phoenix,0,461,65774.45,0
+55,34,Masters,Los Angeles,2,720,111531.08,0
+45,22,Bachelors,Los Angeles,1,576,80335.1,0
+49,27,High School,New York,1,618,60873.27,0
+38,11,High School,Chicago,0,777,52257.01,0
+38,12,High School,New York,2,696,56080.25,0
+22,0,Bachelors,Los Angeles,0,789,57943.44,0
+55,27,Bachelors,Los Angeles,2,660,85436.32,0
+36,10,High School,Houston,2,694,42510.13,1
+61,37,PhD,Phoenix,2,631,118012.88,0
+56,34,Bachelors,Los Angeles,0,582,94723.58,0
+53,29,High School,New York,2,694,65519.01,0
+24,0,Bachelors,New York,1,615,44360.66,0
+53,28,Bachelors,Phoenix,1,702,101859.5,0
+34,9,High School,Phoenix,1,604,37071.98,1
+41,14,High School,Houston,2,636,40715.91,0
+40,13,Masters,Chicago,0,642,81853.73,0
+28,7,Bachelors,New York,0,736,51228.31,0
+27,0,Bachelors,Phoenix,2,616,45287.45,0
+23,0,Bachelors,New York,1,745,63018.87,0
+37,15,High School,Phoenix,0,578,44160.1,0
+53,27,High School,Los Angeles,0,672,70804.92,0
+32,6,Bachelors,New York,0,595,38463.86,1
+42,21,High School,Los Angeles,0,739,70674.98,0
+42,15,High School,New York,2,585,50703.12,0
+50,22,Masters,Chicago,0,593,90884.97,0
+58,34,PhD,Houston,0,549,125305.32,0
+58,37,Masters,Los Angeles,0,658,113526.93,0
+28,0,Masters,Phoenix,1,697,41711.2,0
+47,23,High School,Chicago,1,689,62928.37,0
+47,19,PhD,New York,0,638,84480.3,0
+54,30,High School,Los Angeles,0,597,71919.25,0
+41,18,PhD,New York,0,628,102307.55,0
+50,22,PhD,New York,1,631,106176.99,0
+53,27,Bachelors,New York,1,670,75235.96,0
+48,23,PhD,Houston,3,665,115844.12,0
+53,26,Bachelors,Houston,2,789,91208.86,0
+25,1,High School,Phoenix,2,653,18000.0,0
+39,16,Bachelors,Los Angeles,0,679,69680.81,0
+24,0,Bachelors,Chicago,0,656,37992.89,0
+55,29,High School,Chicago,1,624,70150.35,0
+37,12,Bachelors,Chicago,2,678,70633.33,1
+64,40,PhD,New York,2,616,126283.08,0
+48,20,High School,Houston,3,645,61861.82,1
+50,22,Masters,Los Angeles,2,743,84848.14,0
+49,25,Masters,New York,3,611,95507.94,1
+26,5,Masters,Houston,1,681,67428.8,0
+55,34,PhD,Houston,0,451,123646.04,0
+61,35,Bachelors,Los Angeles,1,635,104927.26,0
+57,32,PhD,Los Angeles,0,611,121888.86,0
+44,20,Masters,Los Angeles,2,660,80423.15,0
+49,23,High School,New York,2,631,56767.03,0
+51,25,Bachelors,Phoenix,2,661,88729.46,0
+55,33,Bachelors,Los Angeles,1,620,88647.32,0
+53,25,High School,Phoenix,0,681,60823.63,0
+41,14,Bachelors,New York,0,513,75587.93,0
+52,24,Bachelors,Phoenix,2,659,81822.55,0
+43,22,High School,Chicago,2,575,67915.13,1
+53,28,Bachelors,Phoenix,0,743,104981.39,0
+23,0,Masters,Los Angeles,0,574,53420.14,0
+38,14,Bachelors,New York,1,730,66809.01,0
+45,19,High School,Los Angeles,1,649,57721.93,0
+62,38,High School,Chicago,1,504,103832.28,0
+51,29,Bachelors,Los Angeles,1,580,86170.73,0
+23,0,Masters,Los Angeles,3,718,56707.89,0
+60,34,High School,Los Angeles,1,713,96615.87,0
+44,20,Bachelors,Houston,0,546,77096.39,0
+52,31,High School,Chicago,1,775,97359.45,0
+42,15,High School,Los Angeles,0,648,51440.46,0
+43,21,Masters,Los Angeles,1,721,101500.15,0
+22,0,Bachelors,Los Angeles,0,553,22968.52,0
+47,25,High School,New York,0,614,83682.24,0
+62,41,Bachelors,Houston,2,683,125828.35,0
+22,0,High School,New York,3,625,20660.17,1
+46,24,Bachelors,Houston,2,416,78389.55,0
+37,14,Bachelors,Los Angeles,0,635,75619.58,0
+60,39,High School,Chicago,0,493,82580.22,0
+53,32,High School,Phoenix,2,564,78459.27,1
+29,8,Bachelors,Phoenix,0,538,41168.25,0
+63,40,Masters,Los Angeles,2,741,139485.75,0
+59,36,PhD,New York,5,766,138844.85,0
+49,25,High School,Chicago,0,677,71551.46,0
+62,36,Masters,Houston,1,632,115307.78,0
+46,19,Bachelors,Los Angeles,1,652,74739.39,0
+55,33,Bachelors,Chicago,1,741,96764.68,0
+45,21,Masters,Chicago,0,491,85873.66,1
+44,22,Masters,Houston,2,564,80420.42,0
+33,6,PhD,Chicago,0,730,90084.98,0
+27,1,Bachelors,New York,1,747,57712.42,0
+56,33,Bachelors,New York,2,697,110386.74,0
+40,14,Masters,New York,2,566,64692.2,0
+21,0,High School,Chicago,1,729,28083.94,0
+28,1,Bachelors,New York,1,759,53222.56,1
+36,10,Bachelors,Houston,2,707,67798.82,0
+34,10,Bachelors,Chicago,2,450,34050.22,0
+32,7,High School,Phoenix,3,660,44064.41,0
+43,19,High School,Chicago,1,697,51690.59,0
+35,13,Masters,Houston,2,609,73974.32,1
+48,24,High School,Phoenix,0,665,83117.39,0
+54,27,Bachelors,Chicago,1,609,98858.63,0
+22,1,High School,New York,0,581,38975.17,1
+52,30,High School,Los Angeles,0,771,77243.57,0
+43,17,High School,Los Angeles,0,667,51906.39,0
+42,20,High School,New York,1,562,54214.79,1
+45,20,Masters,Los Angeles,1,540,85082.03,0
+42,19,High School,Los Angeles,0,581,61390.31,0
+42,16,PhD,New York,1,582,104375.29,0
+62,34,Bachelors,New York,2,662,93922.49,0
+26,4,Bachelors,Chicago,0,689,46100.32,0
+35,9,Bachelors,Chicago,0,689,73572.77,0
+63,37,Bachelors,New York,2,590,94368.57,0
+57,31,Masters,Houston,1,724,120101.67,0
+53,30,High School,Los Angeles,2,748,82722.17,0
+28,0,Bachelors,Chicago,1,629,44452.66,0
+64,37,Masters,Los Angeles,2,567,109577.66,0
+64,40,Masters,Phoenix,0,658,134684.59,0
+25,0,Masters,New York,0,823,57032.12,0
+59,38,Bachelors,Houston,2,565,92823.61,1
+24,0,Masters,Phoenix,3,608,55040.35,0
+26,1,Bachelors,Phoenix,1,655,21272.2,0
+52,29,Bachelors,Phoenix,0,693,91807.98,0
+50,28,High School,New York,1,491,73460.24,0
+55,32,Bachelors,Chicago,1,754,110380.02,0
+60,38,High School,New York,0,753,111558.67,0
+36,13,High School,Chicago,2,616,63637.9,0
+33,11,Masters,Phoenix,2,850,94645.73,0
+62,36,High School,Phoenix,0,748,98443.93,0
+50,26,High School,Houston,2,744,86290.56,0
+39,17,High School,Chicago,3,745,60385.02,0
+37,9,Masters,Phoenix,1,743,80893.15,0
+39,17,Bachelors,Los Angeles,3,648,64525.88,0
+48,27,Bachelors,Houston,0,640,95358.68,0
+46,24,Masters,New York,0,575,91940.78,0
+57,36,Masters,Houston,1,604,116198.1,0
+46,21,High School,Los Angeles,1,625,67787.06,0
+43,17,Bachelors,Chicago,1,655,91422.41,0
+29,8,Masters,New York,1,778,77872.93,0
+32,8,Bachelors,New York,0,482,50574.63,0
+21,0,High School,Chicago,0,758,24834.01,0
+21,0,Masters,Houston,0,569,60825.81,0
+54,33,Bachelors,Phoenix,1,642,97860.86,0
+52,26,High School,Houston,3,592,72247.37,0
+45,17,Bachelors,Los Angeles,1,798,84637.48,0
+60,34,High School,Phoenix,2,610,96576.98,0
+21,0,High School,Houston,1,692,36061.35,0
+36,11,Masters,Chicago,1,696,65428.88,1
+59,35,High School,Los Angeles,0,557,71825.21,0
+25,2,Bachelors,Los Angeles,3,642,48993.25,0
+42,19,Bachelors,Los Angeles,3,746,78214.04,0
+49,28,High School,Phoenix,0,580,79123.23,0
+23,0,PhD,New York,0,716,86117.82,0
+32,11,High School,Phoenix,2,624,38810.71,0
+46,21,High School,Houston,0,743,81142.68,0
+36,11,High School,New York,0,790,47940.03,0
+57,35,High School,Houston,1,489,97447.42,0
+42,14,High School,New York,0,543,55674.67,0
+49,24,Bachelors,Phoenix,2,615,68835.85,1
+34,12,PhD,Los Angeles,1,767,89324.49,0
+48,24,High School,Chicago,2,693,87761.01,0
+25,4,Bachelors,Los Angeles,1,550,61111.73,0
+50,23,Bachelors,Phoenix,2,704,89597.99,0
+25,1,Masters,New York,1,577,56868.11,1
+32,7,Bachelors,Los Angeles,2,720,58157.61,0
+36,12,High School,Phoenix,2,693,52853.25,0
+46,22,High School,Houston,1,577,62212.8,0
+46,18,Bachelors,Chicago,1,645,84899.17,0
+41,13,Masters,Los Angeles,1,748,87320.65,0
+59,31,High School,New York,1,499,67871.8,0
+56,32,Bachelors,Houston,1,674,106254.93,0
+53,28,Masters,Phoenix,0,561,104324.86,0
+50,23,Masters,Chicago,0,649,94547.84,0
+57,31,PhD,New York,2,687,139966.74,0
+43,19,Masters,Phoenix,0,811,97573.93,0
+30,8,Bachelors,Phoenix,1,648,38508.44,1
+25,0,Bachelors,Los Angeles,1,767,44307.96,0
+56,32,Bachelors,Los Angeles,1,583,105661.4,0
+54,27,High School,New York,2,610,64261.73,0
+51,25,Bachelors,Phoenix,0,697,98515.55,0
+30,2,Bachelors,Los Angeles,2,666,35860.8,0
+39,14,High School,Chicago,0,624,64190.06,0
+52,29,Masters,Chicago,1,622,100726.9,0
+21,0,Bachelors,Phoenix,1,757,42913.88,0
+25,3,PhD,Los Angeles,3,627,65046.68,0
+24,0,High School,New York,1,568,28897.07,0
+36,9,High School,New York,1,582,56877.08,0
+44,21,Bachelors,New York,0,704,83093.5,0
+36,9,High School,Chicago,1,831,50141.86,0
+22,0,Bachelors,Los Angeles,3,608,32560.58,1
+48,23,Masters,Los Angeles,2,822,87233.88,0
+52,29,High School,Chicago,1,649,74698.29,0
+47,25,Bachelors,New York,2,628,73388.98,0
+40,18,Bachelors,New York,1,577,54294.16,0
+44,23,Bachelors,Phoenix,1,634,81867.03,0
+32,10,Masters,Houston,0,590,66716.64,0
+55,29,Masters,Los Angeles,1,583,116709.15,0
+53,30,Bachelors,Los Angeles,1,518,82819.58,0
+53,31,Bachelors,Los Angeles,1,791,109273.31,1
+63,38,Bachelors,Houston,2,735,118257.4,0
+57,30,Masters,Phoenix,0,672,122914.2,0
+32,4,Bachelors,Houston,1,638,46861.97,0
+23,0,Bachelors,New York,1,650,53671.38,0
+21,0,Masters,New York,3,588,54968.52,1
+53,26,High School,Los Angeles,0,559,81413.56,0
+60,37,Masters,Chicago,1,707,145227.41,0
+30,9,High School,Los Angeles,0,629,42250.99,1
+63,40,High School,Chicago,0,676,102577.29,0
+64,39,High School,Houston,1,517,88423.66,0
+49,28,PhD,New York,0,625,131280.79,0
+33,9,Masters,Chicago,0,558,91961.87,1
+32,6,Bachelors,Houston,3,689,58367.49,1
+51,25,Bachelors,New York,0,730,76709.27,0
+22,0,Bachelors,Chicago,0,767,39732.01,0
+55,28,Masters,Los Angeles,0,600,114836.31,0
+43,15,Bachelors,Los Angeles,2,560,53700.79,0
+37,9,Bachelors,Los Angeles,1,617,51275.21,0
+46,22,High School,Houston,2,594,57239.53,0
+28,7,Masters,Los Angeles,0,684,69265.65,0
+49,25,Bachelors,Phoenix,1,538,84630.39,0
+46,22,Bachelors,New York,3,510,56395.12,1
+30,3,High School,Houston,0,622,18533.05,1
+46,18,Masters,Los Angeles,1,708,75987.84,0
+54,33,High School,New York,1,568,70463.75,0
+61,36,Bachelors,Chicago,0,718,110664.06,0
+27,0,PhD,Los Angeles,0,679,70911.2,0
+24,0,Bachelors,New York,1,774,55878.66,0
+31,7,High School,Phoenix,2,586,40634.36,0
+49,24,Bachelors,Chicago,1,521,74599.68,0
+56,32,Masters,Phoenix,1,698,116389.35,0
+45,21,Bachelors,New York,1,672,89968.05,0
+41,17,PhD,Phoenix,3,666,93593.56,0
+56,30,High School,New York,1,566,74646.23,0
+30,3,Bachelors,New York,1,712,41175.38,0
+57,35,Bachelors,Phoenix,4,599,91916.57,0
+29,2,Masters,New York,1,666,65210.17,0
+44,19,High School,Los Angeles,3,613,57085.58,0
+55,31,Masters,New York,0,678,130545.52,0
+55,28,Bachelors,Houston,0,554,83469.64,0
+56,30,Bachelors,New York,1,690,104252.36,0
+38,10,High School,Houston,0,703,51597.68,0
+59,34,Masters,New York,2,659,114355.63,1
+52,29,High School,New York,0,782,81560.48,0
+44,17,High School,Phoenix,1,667,63480.92,0
+43,20,High School,Los Angeles,1,724,70644.06,0
+52,28,Masters,Los Angeles,2,657,106097.9,0
+57,31,Bachelors,Chicago,2,716,102870.71,0
+32,6,Masters,Phoenix,1,527,61008.38,0
+33,6,High School,Phoenix,2,653,21749.37,0
+43,18,Bachelors,Los Angeles,1,560,71359.36,0
+45,20,Bachelors,Phoenix,0,661,77023.05,1
+55,29,Masters,Los Angeles,2,681,124556.19,0
+61,36,Masters,Phoenix,1,715,127900.47,0
+50,24,High School,New York,1,689,73373.58,0
+37,10,Bachelors,Los Angeles,0,623,64085.47,0
+40,18,High School,Los Angeles,1,590,47591.94,0
+45,19,Bachelors,Houston,1,463,63032.08,0
+42,19,High School,Phoenix,0,656,59426.9,0
+33,8,High School,Phoenix,0,741,49535.8,0
+39,13,Bachelors,Los Angeles,1,659,61647.23,0
+56,30,Bachelors,New York,4,643,87407.05,0
+32,5,High School,New York,0,661,27829.23,0
+61,36,Bachelors,New York,1,619,105586.09,0
+39,17,Bachelors,Phoenix,3,666,72130.1,0
+32,5,High School,Houston,1,618,38376.71,0
+29,7,Masters,Los Angeles,1,578,58255.85,0
+27,0,High School,Chicago,1,644,29896.98,0
+48,21,Bachelors,Houston,3,642,67517.53,1
+34,9,Bachelors,Chicago,2,800,60828.43,0
+51,30,High School,Houston,0,586,82154.15,1
+39,14,High School,New York,0,637,50351.59,0
+36,11,Bachelors,Phoenix,0,629,47903.4,0
+25,3,Masters,Chicago,2,614,44576.31,0
+55,33,Bachelors,Houston,2,691,103628.05,0
+32,7,Bachelors,Phoenix,2,829,65576.86,0
+45,20,Bachelors,Chicago,1,624,79813.85,0
+41,16,High School,Los Angeles,0,691,63873.68,1
+56,34,Bachelors,Houston,1,497,94355.12,0
+43,18,Masters,Los Angeles,1,619,92605.98,0
+36,11,High School,New York,0,774,55784.54,0
+59,31,High School,Los Angeles,1,646,76684.89,0
+62,38,High School,Los Angeles,3,690,99030.08,0
+59,38,Bachelors,Houston,3,600,108464.45,0
+34,11,PhD,New York,1,671,102492.45,0
+51,30,High School,Los Angeles,0,781,99653.88,0
+25,1,Bachelors,Phoenix,0,557,40249.27,0
+55,32,High School,Chicago,3,825,85240.87,0
+43,16,PhD,Los Angeles,1,526,104672.0,0
+49,24,High School,New York,4,611,69803.86,1
+63,39,Bachelors,Los Angeles,2,583,106552.67,0
+31,3,Bachelors,Chicago,1,628,28418.44,0
+38,11,Bachelors,New York,0,582,53280.5,0
+32,7,Bachelors,Houston,1,576,44014.75,0
+29,7,High School,New York,1,555,34282.57,0
+30,4,Bachelors,Houston,0,702,57846.67,0
+64,40,High School,New York,0,631,106181.28,0
+37,15,High School,Chicago,0,610,66900.32,0
+58,34,Bachelors,Chicago,0,673,113502.56,0
+27,0,High School,New York,1,530,18000.0,1
+33,9,High School,Los Angeles,3,675,50870.07,1
+60,38,Bachelors,Chicago,0,642,126679.92,0
+62,34,PhD,Houston,3,645,140554.27,0
+29,6,Bachelors,Houston,3,692,40964.23,0
+47,26,High School,Phoenix,2,781,75920.13,0
+22,0,High School,Houston,3,676,34088.76,0
+25,1,PhD,Phoenix,2,634,56334.91,0
+49,24,High School,New York,1,555,50675.77,0
+57,31,High School,New York,1,459,77785.6,0
+58,36,Bachelors,New York,0,660,102119.68,0
+39,14,Bachelors,Los Angeles,0,549,49476.94,0
+28,6,Bachelors,Los Angeles,2,447,54345.68,1
+21,0,High School,Phoenix,0,622,28358.81,0
+42,21,High School,Houston,2,669,59473.77,0
+37,16,PhD,Houston,0,710,90526.84,0
+27,0,High School,New York,3,735,29371.1,0
+45,24,Bachelors,Chicago,0,720,93638.75,0
+24,0,Bachelors,Los Angeles,1,722,47613.39,0
+56,35,Bachelors,Los Angeles,1,533,86449.78,0
+26,5,High School,New York,0,638,40811.67,0
+51,30,High School,Los Angeles,3,696,86490.05,0
+39,17,Bachelors,New York,0,654,70669.36,0
+64,40,Masters,Phoenix,1,638,135676.49,0
+59,31,Masters,Houston,0,652,104212.74,0
+47,22,High School,Chicago,0,670,80015.26,1
+30,9,High School,Houston,0,644,45150.84,0
+46,24,Masters,Houston,3,582,88414.47,0
+39,17,Bachelors,Phoenix,1,514,64093.96,0
+59,37,Masters,Los Angeles,2,634,128553.56,0
+23,0,High School,Chicago,1,655,29135.18,0
+33,9,Bachelors,Los Angeles,0,654,65165.61,0
+48,20,Bachelors,Houston,2,726,89312.02,0
+40,15,Bachelors,New York,2,740,66466.21,0
+48,24,Bachelors,Houston,0,642,87025.69,0
+28,5,High School,Los Angeles,1,642,33459.9,1
+61,34,Bachelors,Houston,1,696,113993.52,0
+59,37,High School,New York,2,684,90117.9,0
+21,0,Bachelors,Phoenix,0,615,42030.49,0
+23,0,PhD,Los Angeles,1,703,89581.52,0
+33,7,Bachelors,Houston,0,638,66686.05,1
+48,20,Masters,Los Angeles,1,640,81082.95,0
+45,24,High School,Phoenix,2,685,78317.78,1
+53,26,Bachelors,Houston,2,626,92638.92,1
+58,37,PhD,Houston,1,658,123814.27,0
+26,2,High School,Los Angeles,0,674,31569.5,0
+64,37,High School,Los Angeles,0,715,88670.67,0
+52,24,Bachelors,New York,1,710,65866.58,0
+41,16,High School,Phoenix,2,671,53926.26,0
+36,13,Bachelors,New York,3,441,49885.19,1
+41,16,Masters,Houston,0,669,75651.88,0
+31,3,Bachelors,Los Angeles,1,682,48393.72,0
+57,33,High School,Houston,1,698,69034.49,0
+56,35,Bachelors,Houston,0,574,103331.47,0
+55,28,Bachelors,Chicago,0,480,86738.58,0
+39,14,High School,Chicago,1,714,60668.66,0
+40,12,Bachelors,Houston,2,552,43851.39,0
+38,13,Bachelors,Los Angeles,0,748,89574.82,0
+61,33,Bachelors,Houston,1,604,115162.22,0
+34,13,High School,Chicago,1,568,39961.07,1
+35,8,Bachelors,Los Angeles,1,678,70457.65,0
+51,28,High School,Houston,1,699,86873.65,0
+21,0,High School,Phoenix,1,695,24645.17,1
+23,0,Masters,Phoenix,0,690,52138.32,0
+36,13,Bachelors,Houston,0,593,59338.98,0
+43,15,High School,Los Angeles,1,528,74357.32,0
+31,8,High School,Houston,1,619,52201.07,0
+32,4,High School,Houston,2,558,27295.04,1
+30,9,High School,Chicago,0,685,44552.2,0
+52,27,High School,Phoenix,0,720,87027.03,0
+36,12,High School,Chicago,1,664,56192.8,0
+28,3,Bachelors,Chicago,0,650,39788.11,0
+58,30,Bachelors,Houston,1,625,97477.85,0
+32,10,Bachelors,Chicago,1,728,57947.11,1
+44,17,Bachelors,Phoenix,1,504,67929.8,0
+48,22,High School,Chicago,2,554,60927.88,0
+28,4,PhD,Phoenix,0,796,90198.8,0
+48,25,Masters,Chicago,2,550,92185.51,0
+56,32,Masters,Phoenix,2,692,113944.86,0
+46,19,Masters,Chicago,0,709,75657.17,1
+28,5,Masters,Chicago,2,496,59352.88,1
+48,21,Bachelors,Los Angeles,5,511,62233.3,1
+48,25,High School,Phoenix,1,751,62185.78,0
+57,33,Bachelors,Phoenix,2,572,107042.03,0
+61,38,Bachelors,Phoenix,1,574,106784.08,0
+56,33,Bachelors,New York,0,608,82025.57,0
+47,25,Bachelors,Chicago,2,572,75427.39,0
+37,12,High School,Phoenix,3,692,47725.02,0
+29,4,Bachelors,New York,4,555,41912.74,1
+53,27,Masters,Los Angeles,1,493,92625.35,0
+40,14,Bachelors,Phoenix,1,743,40432.34,0
+33,5,Bachelors,Phoenix,0,559,43392.79,1
+48,20,High School,New York,3,590,67639.3,1
+49,21,Bachelors,Chicago,1,716,94861.55,0
+33,11,Masters,Los Angeles,0,656,70572.58,0
+55,29,Bachelors,Phoenix,0,739,115710.01,0
+26,0,Masters,Chicago,1,718,42966.9,0
+38,10,Bachelors,Los Angeles,1,614,51069.72,0
+25,0,Bachelors,Houston,7,732,45903.47,1
+45,21,High School,Houston,0,663,72926.5,0
+22,1,Bachelors,Los Angeles,0,602,42793.43,1
+30,3,Bachelors,New York,1,673,38047.87,0
+50,22,Bachelors,Los Angeles,3,545,64703.82,1
+25,0,Bachelors,Los Angeles,1,717,37948.85,0
+53,25,Masters,New York,1,706,92334.93,0
+21,0,High School,New York,1,660,28376.33,1
+38,17,Masters,Chicago,2,497,77249.59,0
+52,30,High School,Chicago,0,742,75227.74,0
+31,4,Bachelors,New York,3,685,44806.05,0
+41,19,High School,Houston,1,648,37075.07,1
+46,23,High School,Houston,2,636,69492.98,0
+45,24,Bachelors,Los Angeles,5,607,84930.53,0
+42,18,High School,Phoenix,0,622,51073.71,0
+47,21,Bachelors,Los Angeles,2,712,73802.62,0
+33,9,Masters,Los Angeles,1,609,71681.0,0
+53,27,High School,Phoenix,0,628,76676.4,0
+54,33,Masters,New York,1,640,120758.07,0
+61,40,Bachelors,Houston,0,642,107689.88,0
+55,34,Bachelors,Los Angeles,0,601,96294.98,0
+21,0,High School,Phoenix,2,636,23053.71,1
+41,14,High School,Chicago,2,677,42284.9,0
+26,0,High School,Los Angeles,2,578,20537.69,0
+48,21,High School,Houston,0,637,55832.04,0
+37,15,High School,New York,2,804,62518.13,0
+25,3,Bachelors,Los Angeles,1,645,38582.25,0
+51,26,Masters,Los Angeles,2,576,99716.03,1
+25,1,Masters,Phoenix,2,566,65149.55,1
+58,34,Bachelors,Chicago,2,549,101614.02,0
+23,0,High School,Chicago,1,780,33582.97,0
+43,15,High School,New York,0,731,45967.24,0
+57,35,High School,Houston,1,547,98181.31,0
+57,31,High School,New York,1,667,93321.55,0
+30,5,Bachelors,Los Angeles,1,748,53312.89,1
+30,5,Bachelors,Los Angeles,3,647,44822.95,1
+39,11,Bachelors,Chicago,1,611,52714.18,1
+37,10,Bachelors,Houston,2,829,81864.39,0
+41,13,Masters,Phoenix,1,498,79175.68,0
+34,6,Masters,Houston,3,850,64374.33,0
+29,1,High School,Los Angeles,1,655,38693.43,0
+21,0,Masters,Phoenix,2,753,69772.34,0
+33,11,PhD,Houston,1,554,82569.08,0
+24,1,High School,Houston,4,592,19580.87,1
+21,0,Bachelors,Phoenix,0,564,30622.25,0
+60,33,Bachelors,Los Angeles,1,642,107246.86,0
+52,31,Masters,Houston,0,675,108956.32,0
+54,26,Masters,Phoenix,1,735,100784.18,0
+48,26,High School,Los Angeles,6,513,62016.24,1
+51,24,Bachelors,Phoenix,0,663,79357.93,0
+28,7,Bachelors,Phoenix,3,722,68635.81,0
+59,38,Bachelors,Houston,1,737,122391.21,0
+46,18,High School,Los Angeles,2,615,57289.02,0
+54,31,Masters,Houston,1,616,101578.78,0
+23,0,Bachelors,New York,1,643,34344.68,0
+32,8,Masters,New York,1,665,62227.77,0
+21,0,Masters,Los Angeles,0,754,49083.72,0
+64,43,Bachelors,Phoenix,1,553,118224.17,0
+25,3,Bachelors,Houston,1,587,38898.06,0
+50,24,Bachelors,Houston,4,543,70824.04,0
+50,26,High School,Los Angeles,0,684,68834.57,0
+37,11,Bachelors,Los Angeles,0,738,75352.21,0
+43,19,High School,New York,3,536,47212.83,0
+35,10,Bachelors,Chicago,1,657,71501.4,0
+57,33,High School,Los Angeles,2,732,85690.76,0
+41,13,High School,Chicago,1,713,41514.27,0
+34,11,High School,Los Angeles,1,712,53303.41,0
+22,0,High School,Phoenix,3,555,28585.49,0
+31,10,Bachelors,Phoenix,0,712,55757.7,0
+59,31,Bachelors,New York,0,635,98769.16,0
+58,33,Bachelors,New York,1,736,107506.17,0
+54,31,High School,Chicago,3,686,82500.7,0
+58,36,High School,Los Angeles,0,585,86076.7,0
+54,26,High School,Houston,1,672,82414.58,0
+38,12,High School,New York,2,715,47539.95,0
+50,23,Masters,Houston,1,609,89108.88,0
+35,8,High School,Houston,0,660,26914.25,0
+47,26,Bachelors,Los Angeles,4,543,64918.18,1
+54,30,High School,Chicago,0,694,85703.13,0
+58,37,High School,Los Angeles,0,645,93706.55,0
+53,26,Bachelors,New York,1,723,99507.01,0
+44,22,Bachelors,Houston,1,692,93252.56,0
+35,10,High School,Los Angeles,2,617,40074.07,0
+50,25,High School,Los Angeles,0,582,78817.85,0
+62,36,Bachelors,Los Angeles,2,564,96903.38,1
+37,12,High School,New York,1,609,45410.99,0
+25,0,High School,Chicago,2,721,26833.64,0
+49,21,PhD,Los Angeles,3,509,110771.56,0
+24,0,Bachelors,New York,1,567,26973.63,0
+30,2,Bachelors,Houston,0,719,49892.24,0
+37,11,Bachelors,Phoenix,2,756,58375.68,0
+30,3,Bachelors,New York,1,571,41348.87,1
+37,10,Bachelors,Phoenix,1,566,53363.96,0
+40,16,Bachelors,Los Angeles,0,763,76968.58,0
+44,16,Bachelors,Los Angeles,0,640,83522.26,1
+25,2,High School,New York,1,578,44638.0,0
+54,26,Bachelors,Phoenix,1,734,97869.14,0
+26,0,Bachelors,Los Angeles,0,690,35787.8,1
+22,0,Masters,Houston,1,709,55588.36,0
+33,10,Bachelors,Chicago,1,583,59465.42,0
+63,42,Bachelors,Chicago,1,680,114937.69,0
+63,37,High School,Los Angeles,0,750,96106.33,0
+31,7,Bachelors,Phoenix,2,701,54599.56,0
+43,18,High School,Los Angeles,1,724,69109.91,0
+36,11,High School,Phoenix,2,762,54651.64,0
+51,29,High School,Houston,2,684,73668.51,0
+31,9,Bachelors,Phoenix,2,605,60335.51,0
+36,11,High School,Los Angeles,2,720,63719.25,0
+28,3,Bachelors,Houston,1,562,30063.46,0
+24,0,Masters,New York,2,632,48944.03,1
+60,36,High School,Chicago,1,697,88859.8,0
+24,1,Bachelors,Los Angeles,0,393,35239.25,1
+45,23,Bachelors,Los Angeles,1,670,67585.12,0
+23,0,High School,Los Angeles,2,674,38809.79,1
+52,25,Masters,Houston,1,559,96581.13,0
+23,0,High School,New York,3,676,28123.2,0
+47,20,Bachelors,Phoenix,0,665,81240.85,0
+49,21,Bachelors,New York,0,653,76271.21,0
+52,28,Bachelors,Houston,4,745,98687.89,0
+39,14,Bachelors,Los Angeles,3,720,67447.07,0
+41,15,High School,Chicago,2,701,35878.02,0
+25,2,High School,Los Angeles,1,568,26146.53,1
+38,13,Bachelors,Phoenix,3,649,60261.85,1
+48,23,Bachelors,Chicago,2,745,92070.68,0
+62,41,Masters,Los Angeles,1,633,152232.72,0
+42,14,Masters,Chicago,0,774,89559.17,0
+41,18,Masters,New York,2,704,107238.19,0
+26,0,Bachelors,Houston,1,787,41103.96,0
+21,0,High School,Los Angeles,0,565,19000.89,1
+25,2,Masters,Phoenix,3,638,53302.09,1
+61,34,Bachelors,New York,0,645,107826.73,0
+32,7,High School,Los Angeles,2,698,34354.58,0
+46,20,Masters,New York,0,591,75133.38,0
+54,27,Masters,Phoenix,2,521,97247.5,1
+34,10,Bachelors,Los Angeles,0,680,51913.05,0
+46,19,High School,Phoenix,2,621,68682.46,0
+47,26,Bachelors,Chicago,2,612,91674.83,0
+29,1,Masters,Phoenix,1,595,47564.28,1
+46,21,Masters,Chicago,1,660,97102.13,0
+42,15,High School,Los Angeles,1,564,45426.57,1
+50,22,High School,Chicago,2,634,64090.27,0
+63,41,Masters,Los Angeles,2,584,124384.96,0
+37,15,Bachelors,Los Angeles,3,601,61419.33,0
+46,18,Bachelors,Houston,0,678,83996.12,0
+56,28,PhD,Los Angeles,1,702,109207.53,0
+21,0,High School,Chicago,1,626,30672.79,1
+28,4,Bachelors,Houston,1,727,54820.76,0
+55,30,High School,Houston,2,572,63838.83,0
+35,12,Bachelors,Los Angeles,3,528,48970.21,1
+42,21,Masters,Phoenix,0,543,79675.09,0
+34,10,Bachelors,Phoenix,1,564,53062.16,0
+46,18,PhD,Houston,2,545,94235.84,0
+48,25,Bachelors,Los Angeles,1,812,84924.52,0
+43,15,High School,Phoenix,1,526,57562.16,0
+34,6,High School,Los Angeles,1,725,50120.04,0
+44,22,Bachelors,Los Angeles,2,648,91229.78,0
+22,0,Bachelors,Houston,1,668,18057.59,0
+46,23,High School,Houston,2,578,81653.51,1
+34,13,Bachelors,New York,0,676,68934.49,0
+27,5,Bachelors,Phoenix,0,577,49505.7,0
+23,0,Bachelors,Phoenix,1,724,43843.14,0
+43,15,Bachelors,Phoenix,1,730,60108.76,0
+63,37,Bachelors,Chicago,2,639,109997.82,0
+38,11,High School,Los Angeles,3,644,58467.5,1
+58,35,High School,Houston,2,685,91386.21,0
+55,32,Bachelors,Phoenix,1,681,90604.13,0
+35,13,Bachelors,New York,1,732,54752.24,0
+45,24,High School,Phoenix,1,730,70553.79,0
+57,29,Masters,Los Angeles,1,648,100223.76,0
+48,23,Masters,Los Angeles,2,612,99803.17,0
+30,9,Bachelors,Houston,2,715,71733.77,1
+59,35,High School,Chicago,1,637,93506.86,0
+37,13,Masters,Houston,0,659,78994.17,0
+59,33,Bachelors,Phoenix,2,692,100487.22,0
+42,20,Masters,New York,2,728,93359.75,0
+46,24,Masters,Houston,1,671,88400.53,1
+64,42,Masters,Chicago,2,603,132740.39,0
+45,19,Bachelors,Houston,0,794,73232.65,0
+37,13,High School,Los Angeles,0,772,66325.52,0
+33,12,Bachelors,Phoenix,0,569,58090.78,0
+40,14,Bachelors,Phoenix,1,577,71557.28,0
+45,19,Bachelors,Phoenix,3,587,57820.58,0
+24,3,High School,Phoenix,2,718,41133.84,0
+30,8,High School,Phoenix,1,797,59342.75,0
+23,0,Masters,Phoenix,1,609,41625.8,1
+61,40,Bachelors,New York,2,664,112138.47,0
+38,14,Masters,Chicago,0,590,81813.98,0
+56,33,Masters,Phoenix,0,786,124294.81,0
+42,14,Bachelors,Chicago,1,716,66584.02,0
+54,31,Bachelors,Phoenix,1,584,90317.48,1
+28,1,Masters,Houston,0,482,53359.37,0
+60,33,Bachelors,Phoenix,1,733,107692.99,0
+64,38,Bachelors,Los Angeles,1,604,102713.36,0
+39,11,High School,New York,1,717,41854.62,0
+62,39,Bachelors,Houston,2,673,122622.38,0
+61,36,Bachelors,Houston,0,503,102889.02,0
+57,35,High School,Los Angeles,2,585,65554.66,0
+26,2,High School,Phoenix,0,622,41437.6,0
+46,19,High School,New York,5,596,48665.71,0
+54,29,High School,Houston,0,659,81160.66,0
+26,2,High School,New York,0,682,36253.78,0
+57,33,Bachelors,Houston,6,793,87566.85,0
+53,31,Masters,Phoenix,2,688,108320.78,0
+42,14,Bachelors,Houston,2,769,82418.17,0
+41,15,High School,Houston,0,612,63284.23,0
+26,3,High School,Chicago,3,743,30906.77,0
+26,4,Bachelors,Phoenix,0,620,55442.5,0
+24,0,Bachelors,Los Angeles,0,577,47707.72,0
+50,24,Masters,Los Angeles,0,573,103288.51,0
+31,6,Bachelors,Phoenix,0,439,35045.77,1
+50,24,Masters,Los Angeles,1,718,115490.35,0
+51,23,High School,Phoenix,1,547,59905.42,0
+44,17,Bachelors,Los Angeles,0,763,79104.03,0
+29,4,High School,Chicago,3,636,27878.47,1
+23,1,Masters,Los Angeles,0,526,54907.85,1
+51,25,Bachelors,Houston,1,561,75461.62,0
+60,34,High School,Phoenix,1,665,86573.89,0
+57,33,High School,New York,1,500,81844.81,1
+56,32,High School,New York,3,697,94901.84,0
+44,23,Bachelors,Phoenix,2,529,87095.36,0
+51,26,High School,Chicago,0,591,82830.98,0
+26,2,Bachelors,Los Angeles,2,666,52657.87,0
+22,1,High School,Chicago,2,687,45500.08,1
+40,13,Bachelors,New York,1,714,65148.73,0
+48,21,Masters,Phoenix,1,545,86980.09,0
+31,7,Masters,Phoenix,1,625,64609.51,1
+24,0,Masters,Chicago,2,737,56529.82,0
+35,9,High School,Chicago,1,625,29074.01,0
+26,3,High School,Los Angeles,0,674,36742.85,0
+50,22,Bachelors,Houston,1,663,86384.5,0
+58,33,Bachelors,Houston,1,754,103043.34,0
+22,0,Bachelors,Los Angeles,0,613,25703.93,1
+35,13,High School,Houston,1,539,45952.88,1
+31,4,High School,New York,2,573,18067.64,1
+28,4,High School,Houston,0,665,39645.8,0
+46,22,Masters,Los Angeles,2,524,89233.8,1
+64,36,High School,Houston,1,606,91796.35,0
+25,0,Bachelors,Phoenix,4,656,28890.67,1
+26,0,High School,Chicago,2,589,34514.25,0
+46,24,Bachelors,New York,3,676,85171.88,1
+24,0,High School,Phoenix,2,708,19691.86,0
+39,17,Masters,Phoenix,2,686,90856.77,0
+40,17,Masters,Los Angeles,0,526,82519.62,0
+53,26,High School,Chicago,3,656,87972.25,0
+40,16,Masters,Chicago,1,663,79144.13,0
+32,8,PhD,New York,1,620,68772.2,0
+21,0,Masters,Los Angeles,1,675,58404.12,0
+46,25,Masters,New York,1,672,109790.03,0
+34,7,High School,Houston,1,643,60026.72,0
+58,32,Bachelors,Phoenix,0,570,128167.51,0
+57,34,High School,New York,0,648,75151.56,0
+31,5,High School,Phoenix,1,799,40542.86,0
+56,28,PhD,Los Angeles,0,619,105962.09,0
+33,8,High School,Houston,0,734,43533.55,0
+63,39,Bachelors,Los Angeles,1,653,134415.19,0
+23,0,Masters,Houston,0,586,46062.6,1
+53,31,Masters,Houston,0,626,110642.44,0
+26,0,PhD,Phoenix,2,649,60332.25,0
+30,5,High School,Los Angeles,2,702,27650.34,0
+25,0,High School,Los Angeles,3,840,48135.11,0
+43,19,Bachelors,New York,1,654,62306.68,0
+30,2,High School,Los Angeles,1,552,25737.38,0
+64,41,High School,New York,0,518,97311.67,0
+22,0,Bachelors,Chicago,1,616,40142.55,0
+33,8,Masters,Chicago,1,560,62758.62,1
+60,36,Bachelors,Chicago,0,695,124129.09,0
+22,0,High School,Los Angeles,2,695,18000.0,0
+40,13,Bachelors,Los Angeles,0,638,69848.07,0
+21,0,High School,New York,0,703,34448.99,1
+57,30,High School,Houston,2,655,82382.91,0
+29,8,Masters,New York,4,799,64082.41,0
+37,15,Bachelors,Chicago,2,700,80445.28,0
+29,2,Masters,New York,1,722,71674.82,0
+31,7,High School,Houston,1,534,26965.2,1
+35,14,Masters,Los Angeles,1,556,65459.05,0
+44,21,Bachelors,New York,4,688,65000.08,0
+58,34,Bachelors,Chicago,1,526,100068.65,0
+55,32,Bachelors,Chicago,1,600,97821.04,0
+50,23,Masters,Los Angeles,0,744,97910.03,0
+51,28,Bachelors,New York,1,598,108851.86,0
+25,4,Bachelors,Houston,1,553,40970.24,0
+64,40,PhD,Los Angeles,1,703,142607.5,0
+34,8,Masters,New York,1,816,74091.25,0
+31,6,Bachelors,Phoenix,0,585,68868.06,0
+29,8,Bachelors,Chicago,2,748,41012.99,0
+54,33,Bachelors,Houston,2,575,94210.81,0
+32,6,High School,Houston,0,641,43968.3,0
+55,31,Bachelors,Houston,2,644,94158.51,0
+55,31,Masters,Chicago,0,587,97541.01,0
+21,0,Masters,New York,1,720,59189.37,1
+60,33,High School,Los Angeles,0,527,67888.09,0
+42,19,Bachelors,New York,1,666,82672.11,0
+49,22,High School,Los Angeles,1,736,66120.63,0
+28,2,PhD,Houston,2,713,66486.75,0
+31,4,PhD,New York,0,689,86175.41,0
+61,35,Bachelors,Houston,2,777,99650.98,0
+57,33,Masters,Phoenix,2,632,98397.8,0
+34,11,Bachelors,Houston,0,528,49725.66,1
+50,23,Bachelors,Houston,0,661,103263.01,0
+55,34,High School,Los Angeles,1,640,78566.81,0
+41,19,Bachelors,Phoenix,3,481,70129.71,1
+57,29,Bachelors,Houston,0,560,99190.18,0
+25,0,Bachelors,Houston,3,550,26942.25,1
+39,18,Bachelors,Phoenix,0,585,64353.91,0
+34,10,Masters,Phoenix,0,622,74501.43,0
+46,21,High School,New York,1,625,65627.9,0
+24,2,Bachelors,Los Angeles,0,588,56248.55,0
+45,23,Bachelors,Phoenix,0,550,73476.92,0
+62,39,Bachelors,Phoenix,2,680,108604.72,0
+45,20,Bachelors,Chicago,0,659,104905.57,0
+38,15,High School,Phoenix,1,662,38146.37,0
+60,39,High School,Los Angeles,0,792,85900.81,0
+28,2,Bachelors,Houston,0,663,34672.63,0
+59,33,Bachelors,Houston,1,621,109954.45,0
+60,34,High School,Houston,0,642,84935.44,0
+34,9,Bachelors,Houston,1,658,54372.18,0
+52,26,Bachelors,Chicago,2,699,80673.0,0
+58,37,Bachelors,Phoenix,1,646,116505.76,0
+53,30,Masters,Houston,1,495,90292.02,0
+43,18,High School,New York,1,615,52566.48,0
+35,12,High School,Houston,2,650,38869.22,0
+53,28,Masters,Phoenix,6,754,79309.54,0
+45,22,Bachelors,Houston,0,587,75775.85,1
+37,15,Bachelors,Chicago,5,519,58227.39,1
+53,30,Masters,Los Angeles,0,655,103220.3,0
+22,0,Masters,Los Angeles,1,719,55145.52,0
+34,12,PhD,Phoenix,3,619,82576.37,0
+60,37,Bachelors,Los Angeles,0,841,116042.77,0
+60,35,Bachelors,Los Angeles,0,822,103393.56,0
+59,34,Bachelors,New York,1,644,92756.59,0
+26,0,High School,Phoenix,0,665,29022.52,0
+26,1,Bachelors,Phoenix,1,759,34675.21,0
+23,0,High School,Los Angeles,1,643,24592.87,0
+27,6,Masters,Los Angeles,0,586,78959.42,0
+28,3,Bachelors,Los Angeles,0,721,50890.59,0
+62,40,Bachelors,Chicago,0,687,100040.9,0
+35,7,Bachelors,Houston,2,585,52218.36,1
+49,24,High School,Chicago,1,672,78246.41,0
+53,29,High School,Phoenix,1,637,71322.15,0
+50,24,Bachelors,New York,1,619,81069.42,0
+59,37,High School,Houston,2,587,81780.8,1
+47,23,Bachelors,New York,0,660,80640.37,0
+56,30,Masters,Phoenix,1,629,101970.08,0
+49,22,Masters,Phoenix,0,673,100441.02,0
+58,31,Bachelors,New York,0,716,116364.36,0
+53,31,High School,New York,0,669,85074.94,0
+57,34,Masters,New York,0,670,104124.32,0
+47,26,Masters,Phoenix,1,607,122644.9,0
+53,25,High School,Los Angeles,1,744,80806.09,0
+24,3,Bachelors,New York,0,582,52758.23,1
+42,18,High School,Houston,2,521,52266.46,0
+22,0,Masters,Phoenix,1,564,53454.56,0
+30,9,PhD,Chicago,2,733,82043.57,0
+25,0,High School,Chicago,2,687,35213.26,0
+30,4,Masters,Houston,0,755,63103.37,0
+53,29,Bachelors,Los Angeles,0,544,95364.37,0
+58,34,PhD,New York,1,836,144164.63,0
+33,9,Bachelors,Phoenix,0,627,69493.41,0
+51,30,Masters,New York,0,509,113647.48,0
+56,29,High School,Phoenix,3,826,74427.61,0
+44,20,High School,Chicago,3,545,70354.72,0
+35,7,High School,New York,2,618,42898.33,1
+49,28,PhD,Houston,4,634,115710.34,0
+28,4,Masters,Los Angeles,0,686,68427.89,0
+25,0,Masters,Houston,0,587,52054.49,1
+49,23,Masters,Los Angeles,1,733,95320.4,0
+24,0,High School,New York,0,710,27083.45,0
+32,8,Bachelors,New York,0,652,69073.15,0
+22,0,High School,Los Angeles,4,756,28169.47,0
+47,21,High School,Chicago,4,645,63335.46,1
+51,25,High School,Phoenix,2,628,70261.28,0
+56,32,Bachelors,Houston,0,810,100988.68,0
+56,29,High School,Houston,0,674,61838.61,0
+46,23,High School,Houston,0,571,73158.48,0
+63,36,High School,New York,0,582,96045.0,0
+47,23,High School,Houston,1,652,68176.9,0
+25,0,PhD,Phoenix,1,458,49307.86,0
+40,12,Masters,Phoenix,2,599,89547.37,0
+31,9,PhD,Los Angeles,1,642,79609.63,0
+30,2,Bachelors,New York,0,637,48314.26,0
+60,32,High School,Phoenix,1,549,74031.67,1
+58,32,Masters,Chicago,1,614,98812.53,0
+26,0,High School,New York,0,744,37066.7,1
+28,6,High School,New York,0,728,28412.72,0
+43,22,High School,Phoenix,1,658,68781.35,0
+46,21,High School,Chicago,1,644,66447.49,0
+63,37,High School,Los Angeles,0,637,84002.13,0
+32,8,Bachelors,Phoenix,0,669,46492.25,1
+46,25,Bachelors,Chicago,0,658,81386.08,0
+33,8,High School,New York,1,676,36591.96,0
+60,36,High School,Chicago,2,690,78232.39,0
+38,10,Masters,New York,3,553,56393.73,0
+45,22,High School,Phoenix,2,625,64883.15,0
+53,29,High School,Phoenix,2,666,96346.61,0
+60,38,Masters,Houston,2,573,127988.83,0
+63,41,High School,Houston,0,596,101084.68,0
+32,9,High School,Houston,2,633,51275.08,0
+64,43,Bachelors,Phoenix,3,636,126639.17,0
+56,31,High School,Los Angeles,1,667,80535.18,0
+24,0,Bachelors,Phoenix,1,582,41401.06,0
+25,3,Masters,Chicago,1,727,72081.08,1
+57,36,High School,Phoenix,0,636,102270.25,0
+28,5,Bachelors,Phoenix,1,662,61396.65,0
+62,35,Bachelors,New York,1,620,94356.9,0
+48,22,High School,New York,1,669,77735.46,0
+51,24,Bachelors,New York,2,784,105882.69,0
+29,2,High School,Phoenix,1,620,42640.85,0
+49,27,Bachelors,Los Angeles,4,606,75270.3,0
+34,6,High School,Chicago,0,584,24127.21,0
+60,32,Bachelors,Chicago,0,645,104587.03,0
+61,38,High School,Los Angeles,1,644,108233.51,0
+42,18,Masters,Los Angeles,0,654,90595.51,0
+31,3,High School,Chicago,1,687,31565.2,0
+43,16,Bachelors,Houston,0,677,72068.3,0
+21,0,Bachelors,New York,2,648,49704.43,1
+57,30,Bachelors,New York,2,806,97945.53,0
+41,16,Bachelors,Chicago,0,705,78328.59,0
+46,24,Bachelors,Los Angeles,0,563,81546.73,0
+56,34,Masters,Houston,1,526,103044.96,0
+43,19,Masters,Chicago,5,594,73259.78,0
+21,0,High School,New York,0,662,33207.78,1
+60,32,Bachelors,Phoenix,1,588,72571.37,0
+35,9,Masters,Los Angeles,1,600,73313.36,1
+41,20,PhD,Phoenix,2,652,100144.42,0
+29,4,Masters,Chicago,0,623,70634.75,1
+29,7,Bachelors,New York,1,486,53253.18,0
+30,5,High School,Houston,1,736,39641.59,0
+46,24,Bachelors,Phoenix,1,718,78113.72,0
+61,36,Bachelors,Houston,0,547,94560.88,0
+55,32,Bachelors,New York,1,655,93795.31,0
+45,18,Bachelors,Phoenix,0,561,79657.35,0
+46,24,Masters,Houston,1,601,111958.35,0
+31,6,Bachelors,Houston,1,689,57129.02,0
+58,30,Masters,Phoenix,1,715,106097.03,0
+22,1,Bachelors,New York,1,713,41754.78,0
+27,4,High School,Houston,1,670,30848.92,0
+38,15,Bachelors,Chicago,1,752,82241.03,1
+47,26,Masters,Phoenix,0,601,96712.73,0
+54,29,High School,Los Angeles,0,619,78566.82,0
+47,19,High School,Los Angeles,5,442,59983.19,0
+37,13,PhD,New York,0,643,86012.7,0
+63,42,High School,Chicago,1,696,109253.55,0
+64,39,Bachelors,Houston,3,673,118624.09,0
+44,23,Bachelors,Los Angeles,2,600,80570.98,0
+45,24,Bachelors,New York,0,718,106507.06,0
+27,5,Bachelors,Chicago,2,644,64349.08,0
+26,1,High School,Chicago,0,711,34607.87,0
+44,20,Bachelors,New York,0,689,73325.65,0
+53,26,Bachelors,New York,0,764,87550.97,0
+49,27,Bachelors,Houston,3,677,90993.77,0
+63,42,High School,New York,1,699,94549.73,0
+42,15,Bachelors,Houston,1,644,70980.48,1
+46,20,High School,Houston,0,610,77592.86,0
+48,21,High School,Phoenix,1,689,66722.38,0
+41,20,High School,Chicago,0,770,68629.47,0
+27,6,High School,Chicago,0,601,44518.74,0
+37,9,Masters,Chicago,1,630,74923.52,0
+40,15,High School,Phoenix,1,652,43545.2,0
+61,36,Masters,Houston,4,705,114102.89,0
+40,18,PhD,Houston,1,678,117365.59,0
+42,18,Bachelors,New York,0,723,81249.01,0
+48,26,High School,Phoenix,0,808,72062.1,0
+60,37,Bachelors,New York,2,599,103433.39,0
+27,6,Masters,Phoenix,4,699,47916.71,0
+21,0,Bachelors,New York,2,676,24922.3,0
+52,26,High School,Los Angeles,3,652,80120.44,0
+33,12,Bachelors,Chicago,0,698,66479.75,0
+50,29,Masters,Chicago,1,629,110829.89,0
+43,21,Masters,Houston,0,676,105260.96,0
+39,13,High School,Los Angeles,1,546,49095.26,1
+52,26,Bachelors,Chicago,2,607,92277.92,0
+50,24,High School,Houston,0,734,76875.78,0
+49,27,High School,Los Angeles,2,731,89017.58,0
+49,28,Masters,Chicago,1,671,122001.03,0
+50,28,High School,New York,1,614,77556.14,0
+36,11,High School,Phoenix,1,716,50658.72,0
+60,35,High School,Los Angeles,1,749,96641.44,0
+39,17,Masters,Houston,0,617,84330.27,0
+38,12,Masters,Los Angeles,0,534,69357.48,1
+21,0,Bachelors,Houston,4,686,49075.02,0
+34,13,Masters,Los Angeles,2,723,76329.63,0
+22,0,High School,Houston,3,697,22170.56,1
+48,26,Bachelors,Chicago,2,775,100485.33,0
+50,28,Bachelors,New York,0,776,107215.99,0
+58,30,High School,Chicago,0,626,102041.24,0
+24,0,Bachelors,New York,2,666,52216.97,0
+21,0,Masters,Chicago,0,610,61843.25,0
+28,3,High School,Chicago,0,568,38862.1,0
+49,22,High School,Los Angeles,1,573,61989.05,1
+59,33,High School,Phoenix,3,707,91139.94,0
+23,0,High School,Houston,0,674,34446.78,0
+52,24,Masters,Houston,1,721,95961.35,0
+30,3,Bachelors,Houston,0,850,55959.5,0
+30,2,Bachelors,New York,2,690,54371.53,0
+39,13,Masters,Houston,0,587,76713.42,0
+54,30,High School,Houston,0,733,90824.14,0
+53,30,Bachelors,Los Angeles,1,585,101271.18,0
+43,21,Bachelors,Chicago,0,790,94051.29,0
+48,25,Bachelors,Houston,1,492,96055.85,1
+52,24,PhD,Phoenix,0,606,104208.47,0
+27,4,Masters,Houston,0,700,79982.67,0
+49,22,Bachelors,New York,0,744,90628.49,0
+28,7,Masters,New York,0,596,73946.43,0
+21,0,High School,New York,0,581,31512.57,0
+23,0,High School,Houston,1,662,33097.18,0
+44,17,High School,Los Angeles,3,803,55383.66,0
+43,18,High School,Phoenix,0,527,62655.57,0
+28,4,Bachelors,Houston,2,625,33850.52,0
+57,35,Bachelors,Los Angeles,0,671,125697.39,0
+23,0,Masters,Los Angeles,1,586,55676.38,0
+53,29,Bachelors,Houston,1,586,101879.74,0
+48,22,Bachelors,Houston,0,631,87976.36,0
+28,4,High School,Los Angeles,2,673,34049.27,0
+54,28,High School,Los Angeles,2,634,70493.25,0
+55,28,Bachelors,Los Angeles,0,767,91506.96,1
+52,24,Bachelors,Houston,1,697,93894.3,0
+44,16,Masters,Los Angeles,1,681,91382.93,1
+34,9,High School,New York,1,732,51306.04,0
+52,25,High School,Houston,3,682,69620.1,0
+63,37,Bachelors,New York,1,615,110719.12,0
+36,12,High School,Chicago,0,629,44954.32,0
+24,0,High School,Houston,3,560,18000.0,0
+57,31,Bachelors,Chicago,2,810,100304.08,0
+41,18,High School,Los Angeles,0,724,61260.03,0
+34,9,Bachelors,Los Angeles,1,445,62977.82,0
+51,30,High School,Phoenix,0,757,73994.73,0
+38,10,High School,Los Angeles,4,533,36222.72,1
+27,5,Bachelors,Chicago,3,692,55771.12,0
+30,6,Masters,Los Angeles,1,474,76429.81,1
+27,5,Bachelors,Houston,1,616,43973.09,0
+53,32,Masters,Los Angeles,1,757,106636.74,0
+43,16,High School,Phoenix,2,762,65386.99,0
+41,19,Masters,Los Angeles,3,675,89083.72,0
+39,18,High School,Chicago,0,713,60932.82,0
+39,11,Bachelors,Chicago,1,537,61018.65,0
+56,30,Bachelors,Los Angeles,3,693,102876.6,1
+49,26,Masters,Chicago,1,718,110953.36,1
+38,10,Bachelors,Chicago,3,850,68115.54,0
+22,0,High School,Phoenix,0,600,37851.25,0
+21,0,High School,Houston,1,651,28616.56,0
+25,3,Masters,Phoenix,0,656,62028.09,0
+40,16,Bachelors,New York,0,706,80465.03,1
+31,8,Masters,Phoenix,1,720,60655.23,0
+62,36,High School,Los Angeles,0,735,101741.8,0
+22,0,High School,Houston,0,729,28431.03,0
+23,0,High School,Los Angeles,1,532,18000.0,1
+43,16,PhD,New York,0,441,92266.66,0
+32,11,Bachelors,Houston,4,609,52235.55,0
+40,17,Masters,Chicago,1,647,70749.64,0
+25,3,High School,Phoenix,1,601,22399.74,0
+57,34,Bachelors,Los Angeles,0,613,117926.86,0
+58,35,Bachelors,New York,1,623,98709.74,0
+50,25,High School,Chicago,0,696,77746.72,0
+29,6,Masters,Phoenix,1,567,52522.84,0
+54,31,Masters,Chicago,0,644,130468.36,0
+64,36,Masters,Phoenix,0,644,121184.03,0
+55,31,Bachelors,Houston,1,694,93203.52,0
+42,20,High School,Chicago,2,743,73285.85,0
+64,36,High School,Chicago,1,785,115451.79,0
+44,16,PhD,Chicago,4,590,85925.67,0
+37,13,High School,Houston,1,490,37463.6,0
+30,6,Bachelors,New York,1,631,72496.45,0
+50,29,Bachelors,Phoenix,4,523,84215.9,1
+43,19,Bachelors,Chicago,0,850,83070.58,0
+52,27,PhD,Houston,0,580,94500.58,0
+37,12,High School,New York,4,695,46297.03,1
+37,9,High School,Phoenix,3,725,31396.49,0
+34,7,High School,Houston,0,677,36639.16,0
+29,8,Bachelors,Phoenix,1,816,44711.29,0
+60,33,High School,Chicago,0,634,97876.34,0
+22,0,High School,New York,3,583,18000.0,1
+45,17,Masters,Houston,1,579,65093.24,0
+59,33,Masters,New York,0,710,109626.05,0
+29,1,High School,Chicago,1,635,39226.03,0
+42,20,Bachelors,New York,0,579,72155.06,0
+63,41,Masters,New York,0,685,128398.67,0
+24,0,High School,Los Angeles,0,707,34586.04,0
+46,22,High School,New York,1,672,65915.08,0
+49,23,High School,Phoenix,2,722,81021.63,1
+54,30,Bachelors,Houston,3,657,91523.33,0
+43,21,High School,Los Angeles,2,603,59510.77,0
+57,30,PhD,Houston,0,715,144977.74,0
+31,3,Bachelors,Houston,1,579,44856.49,1
+26,3,Bachelors,Chicago,1,560,45675.14,1
+38,13,High School,Chicago,0,742,53186.17,0
+41,18,Bachelors,Los Angeles,1,622,51225.89,1
+62,39,Bachelors,Chicago,0,783,126375.83,0
+56,34,Masters,Chicago,1,719,133704.79,0
+61,38,Masters,Chicago,0,616,134341.44,0
+58,30,Bachelors,Houston,0,689,93537.27,0
+54,28,Masters,Los Angeles,3,850,109241.13,0
+37,16,Masters,Houston,0,710,90342.69,0
+57,33,Masters,Phoenix,2,697,117705.42,0
+45,24,High School,Houston,0,602,75408.73,0
+58,31,High School,Phoenix,0,798,91547.55,0
+32,4,High School,New York,1,755,34948.05,1
+43,15,Bachelors,New York,1,603,68152.51,0
+62,37,Bachelors,Phoenix,0,800,124589.07,0
+42,14,Bachelors,Phoenix,1,663,93766.51,0
+41,17,Masters,Houston,0,583,79429.53,0
+47,19,Masters,Phoenix,0,602,90315.84,0
+51,28,Masters,Los Angeles,0,720,105930.47,0
+26,1,High School,New York,0,583,29887.96,0
+47,23,Bachelors,New York,1,562,88460.87,0
+60,34,High School,Phoenix,1,615,84726.89,0
+54,28,High School,Chicago,1,627,57865.71,0
+32,6,High School,Chicago,0,596,45897.16,1
+27,1,High School,Phoenix,1,614,28333.77,0
+30,7,Bachelors,Los Angeles,0,723,55441.71,0
+37,9,Masters,Chicago,2,671,65552.41,0
+46,25,High School,Phoenix,0,609,74160.84,0
+41,17,Bachelors,Los Angeles,2,616,63577.14,0
+48,25,Bachelors,Los Angeles,0,639,82348.94,0
+22,0,High School,Houston,1,644,18000.0,0
+63,36,Bachelors,Los Angeles,2,644,99018.73,0
+21,0,High School,Chicago,0,720,36477.77,0
+56,35,Bachelors,Chicago,1,666,93009.47,0
+46,19,Bachelors,Phoenix,0,668,88288.61,0
+49,24,High School,Phoenix,1,764,63949.42,0
+41,14,High School,Los Angeles,1,800,59349.42,0
+31,6,Bachelors,New York,1,552,53044.54,0
+60,35,Masters,Houston,2,524,118981.78,1
+31,5,High School,New York,1,622,42104.03,1
+56,31,Bachelors,Los Angeles,2,713,98163.76,0
+59,37,Bachelors,Los Angeles,0,680,109256.04,0
+60,36,Masters,New York,1,734,128328.81,0
+55,31,Masters,Houston,2,619,110662.25,1
+54,28,Bachelors,New York,0,493,84007.61,0
+44,22,Bachelors,Phoenix,2,541,79178.75,0
+42,15,Masters,Chicago,0,695,83295.85,0
+25,2,Bachelors,Phoenix,1,735,43395.18,0
+53,26,High School,Chicago,0,497,65274.94,1
+56,28,High School,Los Angeles,0,763,87297.77,0
+40,17,Masters,Houston,0,687,79727.21,0
+39,14,Masters,New York,2,644,88517.02,0
+55,34,High School,Houston,0,600,82184.54,0
+63,40,Bachelors,New York,1,777,98540.97,0
+37,16,Bachelors,Phoenix,0,722,79652.88,0
+63,39,High School,Phoenix,3,689,71846.86,0
+54,33,PhD,New York,1,591,114732.73,0
+29,5,High School,Houston,1,779,62762.11,0
+46,24,High School,New York,4,652,76019.94,0
+22,0,Bachelors,Los Angeles,0,674,52756.38,1
+29,3,Bachelors,Phoenix,1,656,37370.63,0
+29,3,High School,Los Angeles,2,589,26880.33,0
+60,35,Bachelors,Phoenix,0,676,118212.87,0
+37,14,Bachelors,Phoenix,2,706,73796.74,0
+21,0,High School,Chicago,2,615,34422.71,0
+45,21,High School,Los Angeles,5,669,76593.82,0
+63,38,Bachelors,Los Angeles,0,655,117540.99,0
+60,39,High School,Chicago,0,723,90043.85,0
+62,38,Masters,Houston,1,626,127625.44,0
+45,19,Masters,Los Angeles,0,668,88800.22,0
+59,37,PhD,New York,1,685,123182.26,0
+55,29,High School,Chicago,1,624,86011.02,0
+23,0,PhD,Los Angeles,1,584,74978.66,1
+57,33,Bachelors,Houston,0,597,99434.9,0
+64,40,High School,Los Angeles,2,683,101804.29,0
+64,43,High School,Phoenix,0,631,85985.98,0
+50,27,High School,New York,1,630,84713.96,1
+58,36,Bachelors,Chicago,1,698,115659.35,0
+54,27,Bachelors,Phoenix,2,732,94732.02,0
+32,8,High School,Houston,0,745,34927.95,0
+39,15,Bachelors,Phoenix,1,601,52040.63,0
+57,36,High School,Phoenix,0,724,113999.18,0
+64,39,Bachelors,Houston,1,817,109683.87,0
+37,9,Bachelors,Phoenix,1,660,59607.66,0
+30,8,Masters,Chicago,3,644,57841.77,0
+32,6,Masters,Los Angeles,3,627,41679.82,1
+36,13,Bachelors,Phoenix,1,565,65832.06,0
+44,20,Bachelors,Chicago,2,717,84714.75,0
+39,15,Bachelors,Los Angeles,0,644,54740.83,0
+28,2,Masters,Los Angeles,1,638,67894.57,1
+51,29,High School,Phoenix,0,705,77660.58,0
+41,13,High School,Chicago,0,712,44136.69,0
+37,12,High School,Phoenix,0,602,37346.37,0
+43,19,Bachelors,Houston,1,604,82001.04,1
+57,29,Bachelors,Los Angeles,1,600,74686.36,0
+36,14,Masters,Phoenix,2,819,74380.45,0
+26,0,High School,Los Angeles,0,768,36604.4,0
+28,7,Bachelors,Chicago,1,707,59368.1,0
+45,20,Masters,New York,0,620,81602.17,0
+38,15,Masters,Phoenix,3,629,90137.07,0
+45,21,Bachelors,Phoenix,1,679,70742.4,0
+32,10,Bachelors,Los Angeles,3,827,62603.07,0
+35,14,High School,Chicago,1,673,49851.64,1
+46,23,Masters,Houston,1,691,94806.42,0
+61,34,High School,Chicago,0,446,79282.02,0
+46,24,Masters,Phoenix,3,671,94413.21,0
+52,30,Bachelors,Houston,2,538,87982.37,0
+30,7,Bachelors,Chicago,1,611,51202.66,0
+36,15,High School,New York,2,654,62528.21,0
+27,0,Bachelors,Los Angeles,0,626,39948.28,1
+37,9,Bachelors,Chicago,0,599,63387.51,1
+43,15,High School,Chicago,2,600,51938.5,1
+46,20,Bachelors,New York,1,633,80416.07,0
+41,20,PhD,Phoenix,2,630,107801.2,0
+42,17,Bachelors,Los Angeles,1,652,62217.55,0
+27,3,Bachelors,Chicago,3,646,50286.6,0
+34,11,High School,Houston,1,752,48770.61,0
+35,9,Bachelors,Chicago,2,486,41590.95,1
+27,0,High School,Los Angeles,0,670,35782.02,1
+29,6,Bachelors,Chicago,2,656,47811.44,0
+28,5,Masters,New York,1,639,66757.45,0
+43,22,Bachelors,Chicago,0,594,55947.96,0
+49,25,High School,Chicago,0,638,79054.74,0
+38,13,Bachelors,Houston,2,519,82070.83,0
+51,23,Bachelors,New York,1,667,83811.02,0
+50,28,Bachelors,New York,0,681,92268.01,0
+59,37,Masters,Chicago,0,594,116208.38,0
+55,32,Masters,Houston,2,805,122400.37,0
+38,10,Bachelors,Chicago,2,640,55463.05,1
+62,34,Bachelors,Chicago,2,654,107788.03,0
+59,35,High School,Los Angeles,0,757,110782.03,0
+37,10,High School,Los Angeles,2,821,58009.35,0
+34,7,Bachelors,Houston,1,560,49228.0,0
+51,25,Bachelors,Phoenix,3,604,72520.72,0
+44,23,Bachelors,Los Angeles,0,642,80406.03,0
+55,31,Bachelors,Phoenix,0,591,94993.82,1
+64,40,High School,New York,0,718,90852.61,0
+54,33,Bachelors,Los Angeles,0,582,109462.42,0
+23,0,High School,Los Angeles,1,751,35961.78,0
+57,30,High School,Houston,1,700,73362.68,0
+63,36,Masters,Phoenix,2,743,106107.06,0
+60,32,High School,Los Angeles,1,582,88140.67,0
+46,19,Bachelors,Los Angeles,1,619,59969.91,0
+43,20,High School,Houston,1,722,66435.39,0
+64,40,Masters,Houston,1,707,125394.32,0
+59,37,Bachelors,Phoenix,3,627,112279.8,0
+35,14,High School,New York,0,638,60024.09,0
+24,0,Bachelors,New York,2,615,31808.52,1
+49,23,Bachelors,Chicago,2,636,89431.7,0
+42,15,PhD,Los Angeles,0,573,89314.81,0
+45,18,High School,Phoenix,3,559,53330.68,1
+33,8,Masters,Los Angeles,1,730,72755.14,0
+38,15,Masters,Phoenix,1,634,101393.5,0
+53,32,Masters,Phoenix,2,742,113805.43,0
+36,11,Bachelors,Phoenix,0,698,49672.87,0
+62,37,Bachelors,Los Angeles,1,675,102967.58,0
+64,38,Bachelors,Houston,3,593,112162.4,0
+22,0,Masters,Los Angeles,0,553,49563.39,0
+55,29,Bachelors,Phoenix,4,613,89054.61,0
+62,38,Bachelors,Chicago,1,773,111232.43,0
+54,30,Bachelors,New York,3,721,70890.52,0
+50,29,Bachelors,Phoenix,1,606,85237.94,0
+33,6,Masters,Chicago,0,614,64664.37,0
+33,12,High School,Houston,2,576,28314.73,0
+38,15,Masters,Phoenix,3,526,63830.42,1
+52,28,Bachelors,Chicago,2,658,88259.98,0
+52,27,Masters,Phoenix,0,788,107138.16,0
+55,28,Bachelors,Los Angeles,0,789,102509.8,0
+59,37,Bachelors,Chicago,1,699,107868.29,0
+49,26,Masters,Los Angeles,2,602,101698.7,0
+49,28,High School,Los Angeles,0,534,67459.63,0
+64,38,Masters,Chicago,2,734,127264.11,0
+36,13,Bachelors,New York,0,686,81080.04,0
+64,41,Bachelors,Chicago,2,625,116000.7,0
+30,3,High School,New York,2,611,27324.86,1
+50,27,Bachelors,Phoenix,1,698,83835.37,0
+45,22,High School,Phoenix,4,584,60942.78,0
+59,37,High School,Chicago,2,669,90998.05,0
+40,12,High School,Phoenix,2,552,48337.99,0
+25,0,High School,Houston,0,828,18722.77,0
+21,0,PhD,Los Angeles,2,595,61707.04,1
+50,24,PhD,Los Angeles,1,702,115853.53,0
+23,0,Bachelors,New York,2,554,37924.44,1
+34,9,Bachelors,Phoenix,0,637,55687.32,0
+50,22,High School,New York,0,721,67322.82,0
+24,0,Bachelors,Los Angeles,1,738,35430.38,1
+38,15,Masters,Los Angeles,1,711,87649.85,0
+57,34,Masters,Phoenix,2,639,118183.97,0
+45,19,Bachelors,Houston,2,597,59962.05,0
+21,0,Masters,Houston,0,564,59441.74,1
+35,9,High School,Phoenix,1,770,41908.52,0
+29,6,PhD,Phoenix,0,658,75736.06,1
+35,11,High School,New York,0,673,65405.07,0
+44,23,Bachelors,Phoenix,1,743,101337.28,0
+24,3,Bachelors,Houston,1,697,36060.62,0
+32,4,Bachelors,Phoenix,0,640,38289.03,1
+57,29,High School,New York,1,710,71941.09,0
+57,31,Masters,New York,1,600,122876.02,0
+63,41,High School,New York,0,526,91375.12,0
+26,0,Bachelors,New York,0,763,34252.55,0
+59,32,High School,Chicago,1,607,93772.02,0
+44,18,High School,Phoenix,2,626,62385.47,0
+31,3,Bachelors,Los Angeles,1,633,66778.44,0
+33,12,Bachelors,Phoenix,1,602,66807.38,1
+54,31,High School,Chicago,0,738,87033.05,0
+45,19,High School,New York,0,680,65674.31,0
+27,4,Bachelors,Chicago,0,626,45163.05,0
+24,1,Masters,Houston,0,548,65469.46,1
+28,6,Masters,Houston,1,674,78784.48,0
+40,17,High School,Phoenix,1,454,35313.71,1
+49,28,Bachelors,Phoenix,0,669,102642.74,0
+30,6,High School,Los Angeles,3,757,29840.38,1
+63,39,High School,Los Angeles,2,655,117723.63,0
+54,29,Bachelors,Houston,2,747,110333.39,0
+46,19,Bachelors,New York,1,552,61837.76,0
+61,35,High School,Chicago,1,813,98470.99,0
+23,0,High School,Los Angeles,2,738,38057.78,0
+26,5,High School,Los Angeles,0,688,32906.77,1
+25,2,Masters,New York,2,602,42982.91,0
+25,1,PhD,New York,0,589,68276.08,0
+43,16,High School,Phoenix,2,644,52725.72,0
+29,8,High School,Chicago,2,746,35611.47,0
+55,31,Masters,New York,1,545,117524.83,0
+40,17,Masters,Los Angeles,2,651,72639.41,1
+62,35,Bachelors,Los Angeles,1,709,106189.22,1
+55,31,High School,Houston,2,724,85996.44,0
+38,12,High School,New York,1,708,53500.75,0
+37,9,Bachelors,Phoenix,0,537,64856.06,0
+44,18,Bachelors,Chicago,0,741,76879.67,0
+23,0,High School,Phoenix,0,655,18000.0,0
+52,27,Bachelors,Los Angeles,1,563,83439.0,0
+55,31,High School,Phoenix,0,648,90250.97,0
+58,30,Masters,Los Angeles,1,493,101222.64,0
+33,12,High School,Los Angeles,1,696,49009.26,0
+45,19,High School,Los Angeles,0,640,66535.92,0
+29,8,Bachelors,Los Angeles,1,548,58042.39,0
+24,0,Bachelors,Los Angeles,2,627,23602.52,1
+34,13,PhD,Houston,0,593,88951.84,0
+57,29,Bachelors,Phoenix,1,599,90203.07,0
+54,30,High School,Houston,0,469,75436.07,0
+31,10,Bachelors,Houston,2,516,35512.19,1
+61,35,High School,New York,2,632,99787.77,0
+23,0,Masters,New York,2,618,52380.51,1
+48,23,Bachelors,New York,1,728,90144.93,0
+49,26,Bachelors,Chicago,0,599,103653.86,0
+29,8,High School,New York,2,608,42231.88,1
+23,0,Bachelors,Phoenix,0,612,27620.84,0
+45,19,Masters,Houston,3,634,85182.01,0
+54,28,Masters,Phoenix,0,657,112753.99,0
+32,11,High School,New York,0,617,46989.66,1
+62,38,High School,Chicago,2,696,111201.39,0
+29,6,Masters,Chicago,0,834,66456.34,0
+35,11,Masters,Houston,3,584,80766.1,1
+60,36,High School,Phoenix,4,681,96791.61,0
+45,17,Bachelors,Los Angeles,3,652,70878.9,0
+25,3,High School,Phoenix,1,734,38541.96,0
+31,10,Masters,New York,3,666,62240.8,0
+54,29,High School,Los Angeles,1,592,73914.69,0
+44,18,High School,Chicago,1,557,60674.06,0
+35,9,Masters,Houston,1,699,71617.95,0
+58,37,High School,Houston,0,563,91662.15,0
+28,0,Bachelors,Chicago,1,745,54531.99,0
+25,0,Bachelors,New York,1,694,26394.81,0
+46,19,High School,Chicago,0,657,65804.46,0
+38,11,Bachelors,New York,2,545,72188.85,0
+26,0,Bachelors,Los Angeles,1,704,40568.2,1
+57,32,High School,Chicago,1,779,78361.49,0
+33,7,Bachelors,New York,2,616,48338.16,0
+48,27,Masters,Los Angeles,3,591,84986.26,1
+25,0,Masters,Chicago,0,643,57751.17,0
+33,7,High School,Houston,1,687,40216.75,0
+37,13,High School,Chicago,2,608,50188.59,0
+60,37,High School,Phoenix,2,722,93898.88,0
+52,29,Bachelors,Chicago,1,803,101883.06,0
+49,21,Bachelors,Phoenix,2,676,83494.36,0
+23,0,Bachelors,Los Angeles,0,624,31181.17,0
+60,38,High School,Chicago,1,685,99714.77,0
+54,29,High School,Los Angeles,0,744,96993.86,0
+60,33,Bachelors,Los Angeles,2,663,91864.5,0
+47,22,Bachelors,New York,2,689,84534.94,0
+33,8,High School,Los Angeles,1,706,55092.29,0
+53,25,Bachelors,Los Angeles,2,580,72404.59,0
+26,2,High School,Chicago,1,687,39060.69,0
+44,19,Masters,Chicago,1,543,82721.78,1
+39,16,Masters,Houston,1,597,90582.04,0
+36,12,High School,New York,2,742,43459.89,1
+60,39,High School,Los Angeles,0,720,100918.5,0
+48,23,Bachelors,New York,1,628,68653.6,0
+53,28,High School,Phoenix,0,786,87775.6,0
+61,40,Bachelors,Los Angeles,2,545,112438.63,0
+33,8,Masters,New York,0,634,74627.22,0
+63,42,Bachelors,Houston,2,672,121504.4,0
+45,21,Masters,Houston,1,425,82780.32,0
+62,39,Bachelors,Los Angeles,2,637,96981.33,0
+56,35,High School,Phoenix,2,560,93928.7,0
+47,25,Bachelors,Houston,2,562,81734.09,0
+58,30,Bachelors,Houston,0,628,99661.36,0
+27,0,Bachelors,Phoenix,0,504,35493.06,0
+25,4,High School,New York,3,585,46628.84,0
+63,35,High School,Houston,3,506,76531.16,0
+51,26,PhD,Chicago,0,660,109745.0,0
+43,16,High School,Houston,2,658,40665.21,0
+62,35,PhD,New York,1,622,129696.22,1
+30,2,PhD,New York,2,730,89125.66,0
+52,28,Masters,Los Angeles,1,626,105365.34,1
+63,37,Bachelors,Chicago,0,648,111564.04,0
+50,26,Bachelors,New York,1,578,94478.93,0
+59,33,Masters,Phoenix,0,466,109498.87,0
+51,24,High School,Chicago,0,638,81513.61,0
+38,11,Bachelors,Chicago,0,628,74049.68,0
+56,35,Bachelors,Phoenix,0,787,106143.07,0
+22,0,Bachelors,Houston,0,703,32246.13,0
+34,12,Bachelors,Phoenix,1,617,68286.31,0
+33,9,High School,Phoenix,1,661,46343.68,1
+49,24,Bachelors,Houston,0,723,79707.26,0
+32,6,Masters,Houston,0,691,62337.66,0
+59,31,High School,Houston,3,784,79429.71,0
+22,0,Masters,Houston,1,587,53607.12,1
+52,29,Bachelors,Houston,0,728,107296.47,0
+33,7,Masters,Phoenix,1,616,75520.36,0
+47,23,Bachelors,Los Angeles,1,665,90917.41,0
+61,40,Masters,Los Angeles,3,605,119971.21,0
+37,12,High School,New York,0,639,69141.01,0
+60,37,Masters,Los Angeles,1,667,122378.98,0
+51,27,High School,Los Angeles,2,697,72580.72,0
+54,27,Masters,Phoenix,2,655,90105.4,0
+44,17,PhD,Houston,0,451,87512.14,0
+55,31,High School,Houston,1,644,86308.96,0
+26,2,High School,Phoenix,1,768,20843.85,0
+39,15,Masters,Los Angeles,1,643,72933.0,0
+50,24,High School,Phoenix,2,770,69393.93,0
+27,3,Masters,New York,0,640,54021.49,1
+30,5,High School,Houston,2,524,21839.15,1
+61,38,High School,Chicago,1,615,103921.53,0
+52,26,PhD,New York,0,605,98143.88,0
+54,30,Bachelors,New York,2,632,95458.33,0
+48,26,Masters,Phoenix,1,555,102471.71,0
+35,7,High School,Los Angeles,1,649,35003.2,1
+50,28,Bachelors,Houston,1,624,89117.46,0
+57,34,Bachelors,Chicago,0,753,107955.08,0
+49,22,Bachelors,New York,2,553,82028.76,0
+42,21,Bachelors,Chicago,1,670,94176.22,0
+24,3,Bachelors,Los Angeles,1,683,36959.53,0
+40,12,Bachelors,Los Angeles,0,712,58833.66,0
+52,25,High School,Chicago,0,621,64046.82,0
+56,30,Masters,Houston,2,668,108206.9,0
+24,0,High School,Los Angeles,0,678,25521.97,1
+47,21,Bachelors,Chicago,1,518,80317.82,0
+37,16,High School,New York,1,624,48651.57,0
+32,10,Bachelors,Chicago,0,647,52885.75,0
+42,21,Bachelors,Chicago,1,657,73011.76,0
+37,12,High School,Phoenix,0,656,50881.2,0
+30,6,High School,Los Angeles,0,685,48875.31,0
+21,0,High School,Houston,1,805,32600.08,0
+42,20,Bachelors,Houston,1,602,70856.55,0
+46,23,Masters,Phoenix,1,680,88120.67,0
+38,10,High School,Houston,2,754,60914.7,0
+34,11,Bachelors,Chicago,0,506,41191.32,0
+49,25,High School,Phoenix,0,671,72165.34,1
+32,10,Bachelors,New York,1,516,61097.52,0
+56,35,Masters,Los Angeles,0,825,124201.27,0
+55,34,High School,Los Angeles,4,692,80983.1,0
+32,7,Bachelors,Los Angeles,0,681,61660.92,0
+27,2,High School,Chicago,0,500,18000.0,0
+49,28,High School,New York,1,610,59932.89,0
+31,8,High School,Phoenix,1,610,42778.48,0
+53,25,High School,Phoenix,0,791,69683.36,0
+26,0,Bachelors,Los Angeles,1,708,45305.47,0
+35,12,Bachelors,New York,0,518,58210.61,0
+52,24,Bachelors,New York,1,688,88869.41,0
+31,6,High School,New York,0,530,31956.28,0
+43,19,High School,Houston,0,520,61963.67,1
+46,18,Bachelors,Houston,3,686,66908.07,0
+54,33,PhD,Los Angeles,1,710,135631.15,0
+54,29,High School,New York,1,687,69521.39,1
+49,24,Masters,New York,1,800,114553.62,0
+24,0,Bachelors,Phoenix,1,680,61464.82,0
+37,16,Bachelors,Phoenix,0,664,73333.0,0
+55,29,Bachelors,Los Angeles,0,553,105442.56,0
+33,12,High School,New York,0,719,68815.68,0
+61,35,High School,Los Angeles,2,518,80431.59,1
+59,31,Bachelors,Phoenix,0,812,105710.78,0
+35,12,High School,Phoenix,0,720,45072.94,0
+49,25,Masters,Houston,0,850,102253.53,0
+49,25,Bachelors,Los Angeles,0,681,91335.83,0
+31,10,High School,Los Angeles,1,724,33037.55,0
+52,30,Bachelors,New York,0,628,103633.05,0
+22,0,High School,New York,1,647,28185.56,0
+34,9,Bachelors,Houston,2,566,59571.99,1
+40,15,Bachelors,Chicago,1,534,62521.72,0
+42,21,Masters,Chicago,0,665,100452.74,0
+31,3,Masters,Chicago,1,646,62268.81,0
+47,21,Bachelors,Los Angeles,1,564,80725.02,0
+23,1,Bachelors,Los Angeles,3,578,46435.41,0
+37,14,Masters,Phoenix,1,653,68735.46,0
+64,38,High School,Los Angeles,2,563,84192.33,0
+48,22,High School,Los Angeles,2,679,87193.39,0
+49,28,High School,Los Angeles,0,565,76865.45,0
+41,20,High School,Houston,1,670,48148.82,0
+36,8,Bachelors,Los Angeles,0,558,38318.82,1
+57,32,Bachelors,New York,1,558,95045.08,0
+40,19,Bachelors,New York,1,461,63732.67,0
+26,5,High School,Phoenix,0,637,29222.65,0
+39,18,Bachelors,Houston,0,766,96178.31,0
+25,0,High School,New York,2,762,26757.98,0
+23,0,Bachelors,Houston,0,676,51428.76,0
+21,0,Bachelors,Houston,0,490,38851.12,1
+58,35,High School,Phoenix,1,718,89866.0,0
+35,8,High School,Houston,1,668,31644.48,0
+54,27,High School,Los Angeles,2,617,79803.08,0
+55,34,Masters,Houston,0,747,99980.74,0
+45,18,Masters,Phoenix,2,699,95796.1,0
+44,19,Bachelors,Phoenix,1,807,83641.57,0
+32,4,High School,Phoenix,0,538,36287.19,1
+38,15,Bachelors,New York,0,544,65829.87,0
+35,9,Bachelors,Los Angeles,3,557,40770.9,0
+64,41,Masters,New York,1,627,131293.92,0
+36,13,High School,Chicago,1,777,62920.1,0
+47,22,High School,Los Angeles,0,600,61287.66,0
+28,1,Bachelors,Houston,0,602,48796.53,1
+45,19,Bachelors,Phoenix,2,683,78788.96,0
+37,12,High School,Chicago,3,717,52734.97,0
+49,28,High School,Los Angeles,0,471,63504.19,0
+28,0,Bachelors,New York,0,733,57859.46,0
+35,11,Masters,Phoenix,2,598,73984.28,0
+47,24,PhD,New York,2,642,115965.39,0
+27,3,Bachelors,Los Angeles,2,763,47026.65,0
+23,0,Bachelors,Los Angeles,0,633,51160.62,0
+49,21,High School,Chicago,4,527,52282.52,1
+64,39,Bachelors,Houston,1,532,99254.19,0
+44,19,Bachelors,New York,4,648,88266.58,0
+23,0,Bachelors,Chicago,0,623,20566.01,0
+40,16,Bachelors,Phoenix,1,655,97709.0,0
+35,10,High School,Houston,1,618,49835.66,0
+45,17,High School,Chicago,3,749,56126.72,0
+50,29,High School,New York,1,652,82014.68,0
+34,9,High School,Los Angeles,2,509,42480.98,1
+27,5,High School,Phoenix,2,715,34207.95,0
+37,10,PhD,New York,2,803,108037.19,0
+64,40,Bachelors,Houston,2,662,126360.08,0
+40,18,Bachelors,Houston,1,669,99501.44,0
+56,31,Masters,Los Angeles,0,588,98327.03,0
+29,1,PhD,Los Angeles,1,631,69777.75,0
+58,37,Bachelors,Phoenix,1,690,97516.89,0
+42,19,Masters,Phoenix,2,741,81616.75,0
+22,0,High School,Los Angeles,1,686,25303.59,0
+44,17,High School,Los Angeles,0,795,61626.39,0
+28,2,Bachelors,Houston,1,658,49049.13,0
+31,6,Bachelors,Los Angeles,1,560,48004.08,0
+33,6,Bachelors,Chicago,1,563,56319.77,0
+37,10,High School,New York,1,749,51630.15,0
+28,7,High School,Los Angeles,2,731,56267.8,0
+41,14,Bachelors,Phoenix,0,518,70379.23,1
+38,14,High School,Chicago,0,633,41909.35,0
+50,28,Bachelors,Phoenix,0,636,91530.61,0
+38,16,Bachelors,Chicago,0,590,68697.9,0
+51,29,Bachelors,Los Angeles,1,537,93439.14,0
+58,34,Masters,New York,1,588,123197.51,0
+52,26,Masters,Phoenix,2,574,99903.44,0
+31,10,Bachelors,Chicago,1,539,60563.46,0
+45,18,Bachelors,Houston,0,716,67831.96,0
+53,29,Bachelors,Los Angeles,2,673,89587.19,0
+58,36,High School,New York,4,613,69310.9,0
+61,36,High School,Los Angeles,0,484,90137.54,0
+28,5,High School,Houston,0,626,43613.48,0
+31,4,Bachelors,New York,1,692,38809.15,0
+42,18,Bachelors,Houston,0,591,74466.03,0
+44,16,Masters,Los Angeles,1,558,78999.5,0
+61,37,High School,Chicago,1,640,108195.96,0
+37,16,High School,Los Angeles,2,677,47430.67,0
+32,11,PhD,Los Angeles,2,490,87263.42,0
+52,28,High School,Los Angeles,0,758,93007.65,0
+35,13,Bachelors,Phoenix,1,550,59445.44,0
+36,13,Bachelors,Houston,1,616,66472.47,0
+42,15,Bachelors,Houston,1,745,82297.11,0
+48,27,High School,Houston,1,660,65904.47,0
+40,13,High School,Phoenix,2,738,48675.65,0
+53,31,High School,Chicago,1,774,89236.15,0
+30,3,Bachelors,Los Angeles,1,533,61096.23,0
+60,35,Bachelors,Chicago,1,722,104082.06,0
+52,31,High School,Phoenix,2,756,83222.11,0
+53,31,Bachelors,Houston,1,620,110323.8,0
+22,0,Masters,Los Angeles,3,626,57406.81,1
+53,30,High School,New York,1,497,94322.9,0
+53,30,Bachelors,New York,2,712,106919.21,1
+61,36,Bachelors,Chicago,0,447,98365.94,0
+33,11,High School,Houston,0,728,48325.69,0
+50,24,High School,New York,2,537,56858.65,0
+53,31,Bachelors,Chicago,3,761,87894.78,0
+33,10,Masters,Phoenix,1,682,77147.34,0
+46,20,Masters,Chicago,1,731,99682.5,0
+42,21,Bachelors,Chicago,2,585,82526.61,1
+59,38,Bachelors,Chicago,0,543,106008.7,0
+22,0,Bachelors,Los Angeles,2,509,52331.03,1
+58,34,Bachelors,Chicago,0,737,95453.99,0
+59,36,Bachelors,Chicago,0,703,96674.98,0
+46,22,High School,Los Angeles,1,706,61263.41,1
+35,9,Bachelors,Los Angeles,1,673,58973.59,0
+54,31,Bachelors,Phoenix,1,694,89485.96,0
+62,37,Bachelors,Houston,0,627,120802.45,0
+64,42,Masters,New York,2,680,123749.31,0
+60,35,High School,New York,0,581,79982.14,0
+31,5,High School,Chicago,0,623,45415.71,1
+23,0,High School,Phoenix,2,850,35466.92,0
+26,0,Masters,Chicago,2,653,60782.31,0
+29,3,Bachelors,New York,1,492,40451.67,0
+26,0,High School,Los Angeles,0,617,29125.78,0
+29,7,Bachelors,Houston,0,565,39298.05,0
+59,38,Bachelors,Phoenix,3,663,106989.44,0
+51,30,Masters,Los Angeles,1,579,96527.49,0
+52,26,Bachelors,Houston,0,633,106709.52,0
+61,37,Bachelors,Phoenix,1,591,117675.39,1
+32,9,Masters,Phoenix,0,666,66954.69,0
+28,5,High School,New York,1,600,31932.0,0
+28,7,High School,Los Angeles,0,679,40316.23,0
+48,21,Bachelors,Phoenix,0,806,106425.61,0
+40,15,PhD,Phoenix,2,558,92487.58,0
+27,0,Bachelors,Houston,1,708,40269.19,0
+31,9,High School,New York,3,454,34080.17,1
+40,15,High School,Chicago,4,631,35607.08,1
+36,11,Bachelors,New York,1,668,61656.94,0
+24,0,High School,Chicago,0,590,18000.0,0
+26,5,Bachelors,Los Angeles,3,507,26051.01,1
+42,15,PhD,Los Angeles,0,647,112759.17,0
+46,19,Bachelors,Phoenix,1,773,80677.06,1
+23,2,Bachelors,Los Angeles,0,638,39175.72,0
+61,34,Bachelors,Phoenix,2,695,88325.39,0
+62,34,High School,New York,4,740,86009.96,0
+34,13,Masters,Los Angeles,1,848,84777.41,0
+31,5,Bachelors,New York,0,566,55525.47,0
+38,14,Bachelors,New York,3,574,52975.49,1
+32,7,Bachelors,Los Angeles,3,627,46276.18,0
+43,17,Bachelors,New York,0,699,67238.68,0
+32,9,Bachelors,Los Angeles,1,464,48597.55,1
+33,11,High School,Los Angeles,3,702,28343.05,0
+45,21,Masters,Los Angeles,1,662,85842.19,0
+39,16,Masters,Chicago,0,607,88747.45,0
+56,31,Bachelors,New York,0,684,89131.0,0
+28,1,PhD,Houston,1,721,80435.55,0
+49,28,High School,Los Angeles,2,732,87140.26,0
+52,27,Bachelors,New York,0,651,100253.21,0
+64,38,Bachelors,Phoenix,1,676,111199.29,0
+38,16,Bachelors,Los Angeles,2,673,69470.4,0
+26,0,Bachelors,Los Angeles,3,748,46196.48,0
+38,14,High School,Houston,1,680,65082.4,0
+39,15,High School,Chicago,0,702,68143.49,0
+42,20,Bachelors,Chicago,0,721,66879.88,0
+57,29,High School,Los Angeles,1,807,77411.26,0
+52,29,Bachelors,New York,0,603,83834.54,0
+61,38,High School,Phoenix,5,780,102140.96,0
+23,0,High School,Phoenix,0,848,29806.43,0
+48,24,Bachelors,New York,2,608,80289.48,0
+30,3,Bachelors,Los Angeles,1,633,61891.54,0
+55,34,Masters,Phoenix,1,616,124727.93,0
+49,22,Bachelors,Chicago,3,703,93505.79,0
+35,8,High School,New York,1,501,28787.41,0
+53,25,Masters,Houston,0,610,74457.23,0
+27,4,Bachelors,Los Angeles,2,628,43360.28,0
+32,4,High School,New York,0,621,21080.46,0
+50,22,Bachelors,Phoenix,2,620,61503.56,0
+41,19,Masters,Los Angeles,0,611,98798.06,0
+51,28,Bachelors,Chicago,1,712,86653.36,0
+44,23,High School,Los Angeles,1,693,62660.94,0
+40,14,High School,Los Angeles,0,786,55348.13,0
+57,33,High School,Chicago,2,712,102298.45,0
+24,0,Bachelors,Chicago,1,562,36825.47,1
+48,27,Bachelors,Los Angeles,4,636,94804.31,1
+64,36,High School,Chicago,2,628,86681.89,0
+40,13,Masters,New York,2,670,63575.84,0
+44,22,Masters,Chicago,0,737,88371.48,0
+52,24,Bachelors,Chicago,1,665,85565.92,0
+61,37,Masters,Los Angeles,0,665,124168.72,0
+56,31,High School,New York,1,651,87524.39,0
+54,27,Bachelors,Houston,2,715,96688.12,0
+56,32,Bachelors,Houston,2,604,104461.46,0
+22,0,Masters,Phoenix,2,533,41997.63,0
+35,7,Masters,Chicago,5,702,81124.97,0
+54,33,High School,Chicago,1,680,104668.82,0
+56,35,Masters,New York,1,756,117355.18,0
+26,0,High School,Houston,1,456,18000.0,1
+59,35,Masters,Phoenix,0,642,102616.71,0
+62,39,PhD,New York,1,659,138898.0,0
+32,7,High School,Chicago,4,529,35031.93,1
+23,1,Bachelors,Houston,1,643,38106.06,0
+38,14,High School,Phoenix,1,745,58344.88,0
+60,38,Bachelors,Los Angeles,2,817,103189.68,0
+41,17,Bachelors,Houston,2,729,83069.06,0
+35,12,Bachelors,Phoenix,1,624,57581.2,0
+53,30,Masters,New York,0,751,116638.84,0
+55,28,Bachelors,Los Angeles,0,723,98211.41,0
+46,19,Bachelors,Phoenix,2,611,55596.02,1
+28,5,Masters,Phoenix,2,603,68226.29,0
+56,30,PhD,Chicago,1,637,113220.01,0
+50,27,High School,Houston,0,566,75062.54,0
+43,22,PhD,Chicago,2,625,91511.08,0
+62,41,High School,Los Angeles,3,689,95445.61,0
+64,38,Masters,Phoenix,2,733,128589.24,0
+34,6,High School,Chicago,2,620,25486.27,0
+34,9,High School,Houston,1,761,38219.26,0
+22,0,Bachelors,Los Angeles,1,702,45005.61,0
+57,35,Bachelors,New York,1,706,105532.37,0
+25,0,Bachelors,Chicago,4,576,38383.74,1
+58,34,High School,Los Angeles,0,795,91689.73,0
+61,33,Bachelors,New York,0,694,109933.49,0
+34,10,Masters,Chicago,1,623,66617.4,0
+59,33,Bachelors,Los Angeles,1,609,104933.58,0
+45,24,High School,Los Angeles,0,625,62038.96,0
+40,13,Bachelors,Chicago,2,569,55261.08,0
+22,0,High School,Los Angeles,2,729,35336.04,0
+59,38,Masters,Phoenix,0,577,116850.57,0
+26,1,Masters,Chicago,4,673,43378.93,1
+37,15,Bachelors,Los Angeles,0,614,84131.04,0
+45,20,Bachelors,New York,1,704,79643.8,0
+48,22,Masters,New York,0,715,102443.07,0
+22,0,Bachelors,Phoenix,1,598,19361.28,0
+55,27,Masters,Chicago,4,647,111666.28,0
+57,34,Bachelors,Los Angeles,1,535,122216.08,0
+25,2,Masters,Los Angeles,1,786,75019.64,0
+21,0,Bachelors,New York,3,735,55262.32,0
+60,35,Bachelors,Phoenix,0,538,97841.07,0
+32,8,PhD,New York,2,581,79506.41,0
+56,34,Bachelors,New York,0,639,108152.69,0
+43,20,Bachelors,Phoenix,5,653,66841.51,1
+51,25,High School,Chicago,0,595,69683.47,0
+31,5,Bachelors,Los Angeles,1,558,38111.06,1
+30,7,Bachelors,Chicago,1,682,52120.44,0
+23,0,High School,Houston,1,789,39928.02,0
+34,11,High School,Houston,1,654,30868.14,0
+36,14,Bachelors,Houston,1,627,74657.93,0
+30,7,Masters,Phoenix,1,618,51923.75,0
+49,27,Bachelors,New York,0,562,88552.11,1
+30,4,High School,Chicago,1,596,33130.92,0
+32,9,Bachelors,Los Angeles,0,741,67995.35,0
+50,25,High School,Houston,1,484,63535.14,1
+61,34,Bachelors,Chicago,1,656,93837.75,0
+21,0,High School,Houston,3,652,26140.59,0
+25,0,High School,Houston,0,659,47912.55,0
+40,18,High School,Los Angeles,0,708,62590.32,0
+28,3,Bachelors,Phoenix,1,655,39467.61,0
+63,41,High School,New York,1,614,94955.71,1
+32,7,Bachelors,Phoenix,0,597,54832.14,0
+21,0,Bachelors,Chicago,1,754,43542.41,0
+40,18,Bachelors,Phoenix,2,733,72651.77,0
+48,24,Bachelors,Chicago,1,850,104946.89,0
+63,38,Masters,Chicago,0,628,128175.54,0
+57,34,High School,New York,0,599,86093.33,0
+57,30,Bachelors,Los Angeles,1,686,96242.27,0
+32,6,High School,New York,4,684,36918.61,0
+57,33,High School,Phoenix,3,701,90882.83,0
+64,42,Bachelors,Chicago,1,718,131660.83,0
+48,24,Bachelors,Houston,1,700,83292.79,1
+35,14,Masters,Houston,1,736,74490.21,0
+26,5,Bachelors,Chicago,0,747,50875.03,0
+64,39,PhD,New York,0,748,134239.67,0
+40,15,High School,Los Angeles,1,469,32825.93,0
+34,11,High School,New York,1,669,60055.39,0
+22,0,High School,Chicago,2,576,30331.28,1
+29,3,High School,Chicago,0,734,18000.0,0
+57,33,Bachelors,Los Angeles,0,467,97041.52,0
+40,19,Bachelors,Phoenix,2,768,76129.39,0
+46,21,High School,Phoenix,0,581,58576.83,0
+49,21,Masters,Los Angeles,4,562,63101.31,0
+21,0,Masters,Phoenix,0,678,56892.81,0
+55,29,High School,Houston,1,620,78492.38,0
+26,2,High School,Phoenix,1,792,25487.94,0
+57,32,High School,Phoenix,0,759,104564.72,0
+25,0,High School,Phoenix,1,609,32282.14,0
+53,32,High School,Houston,0,733,79322.97,0
+34,13,Bachelors,Phoenix,2,606,71447.45,0
+32,7,High School,Houston,1,606,33450.01,0
+62,40,Bachelors,Los Angeles,0,707,126775.97,0
+40,15,PhD,New York,1,766,85453.92,0
+44,18,Bachelors,Los Angeles,2,615,73130.56,0
+63,38,Masters,New York,0,621,112293.57,0
+54,31,High School,Los Angeles,0,674,77223.65,0
+45,18,Bachelors,New York,1,578,53935.02,0
+49,26,Bachelors,New York,2,775,81289.9,0
+59,36,High School,Chicago,1,578,77557.33,0
+51,29,High School,New York,1,599,64671.84,0
+63,41,Bachelors,New York,1,791,122937.53,0
+43,15,Bachelors,Chicago,1,667,53584.29,0
+64,39,Bachelors,Phoenix,0,805,122089.29,0
+58,35,Bachelors,Phoenix,0,632,114333.02,0
+40,18,Bachelors,Chicago,0,850,75398.5,0
+43,22,High School,Houston,1,699,67595.47,0
+36,11,High School,New York,0,590,42379.2,0
+62,36,High School,New York,2,589,84256.37,0
+28,1,High School,Chicago,3,533,18000.0,0
+41,17,PhD,Chicago,0,542,84138.72,0
+21,0,Bachelors,Houston,2,597,51632.84,0
+28,4,Bachelors,Phoenix,3,571,46354.59,0
+49,26,High School,Los Angeles,2,444,61987.62,0
+52,25,Bachelors,Phoenix,2,717,70093.39,0
+58,34,High School,New York,4,712,92218.52,0
+25,2,High School,Chicago,0,675,24395.12,0
+42,21,High School,Houston,1,559,49822.78,0
+54,30,Masters,Phoenix,0,782,105044.99,0
+21,0,Bachelors,Houston,0,636,47035.83,0
+46,18,Bachelors,Phoenix,3,583,68481.34,0
+63,38,Bachelors,New York,2,669,117541.37,0
+30,7,Masters,Los Angeles,1,664,78091.49,0
+50,25,High School,Houston,2,450,55944.79,1
+38,11,High School,Houston,1,648,46135.74,0
+37,15,High School,Los Angeles,1,660,51472.85,0
+46,23,Masters,Houston,0,620,83943.82,0
+28,4,PhD,Houston,1,544,58798.73,1
+60,37,High School,Phoenix,1,547,87802.45,0
+32,7,Masters,Phoenix,2,691,67326.41,0
+47,26,Masters,Los Angeles,1,711,103546.05,0
+28,5,High School,New York,2,614,32680.16,0
+45,21,Bachelors,Houston,4,681,69896.05,0
+24,2,Bachelors,New York,1,613,63012.94,0
+53,25,PhD,Los Angeles,0,582,112366.23,0
+21,0,High School,Los Angeles,0,667,23500.26,0
+39,18,Masters,Phoenix,0,558,88340.85,0
+51,23,High School,Houston,3,802,64218.98,0
+36,14,Bachelors,Chicago,2,535,61440.62,0
+34,11,Bachelors,Los Angeles,1,673,66126.26,1
+25,0,Bachelors,Houston,3,662,44838.43,1
+61,34,Masters,New York,0,655,106084.16,0
+46,21,Masters,Phoenix,1,769,124621.84,0
+48,20,Masters,New York,2,435,91636.22,0
+22,0,High School,Los Angeles,3,683,44012.54,1
+26,1,Bachelors,Los Angeles,2,628,39214.96,0
+29,8,High School,New York,2,697,44101.13,0
+53,28,Bachelors,Los Angeles,3,654,90288.13,0
+61,37,Bachelors,Houston,3,644,100836.47,0
+45,19,Bachelors,Los Angeles,0,553,80138.48,0
+33,10,Bachelors,Phoenix,2,596,48487.14,0
+29,2,PhD,Houston,1,850,84684.26,0
+33,5,High School,Chicago,1,697,33197.18,0
+51,28,Bachelors,Los Angeles,0,734,100351.25,0
+61,36,Bachelors,Los Angeles,0,622,119834.69,0
+31,9,High School,Phoenix,1,582,39082.88,1
+24,1,High School,Phoenix,0,712,39302.01,0
+54,28,Masters,New York,1,498,94539.86,1
+58,33,Masters,New York,2,598,100287.99,0
+24,0,Masters,New York,1,622,68635.56,0
+58,34,PhD,Phoenix,2,726,136569.38,0
+39,13,High School,New York,0,683,51510.21,0
+26,1,Bachelors,New York,1,612,48347.68,0
+54,28,Bachelors,Chicago,1,680,84252.45,0
+38,15,Bachelors,New York,1,626,71820.16,0
+33,6,Bachelors,Los Angeles,1,736,57993.04,0
+61,37,Bachelors,Phoenix,1,669,115014.9,0
+43,18,Bachelors,Houston,1,789,94535.58,0
